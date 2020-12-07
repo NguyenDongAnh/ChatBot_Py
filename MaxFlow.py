@@ -15,13 +15,13 @@ class Graph:
 
         while queue: 
   
-            u = queue.pop(0) 
+            v = queue.pop(0) 
           
-            for ind, val in enumerate(self.graph[u]): 
+            for ind, val in enumerate(self.graph[v]): 
                 if visited[ind] == False and val > 0 : 
                     queue.append(ind) 
                     visited[ind] = True
-                    parent[ind] = u 
+                    parent[ind] = v 
 
         return True if visited[t] else False           
       
