@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.1/socket.io.slim.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Dong Anh Dep Trai</h1>
+    <div id="body"></div>
+</body>
+<script type="text/javascript" charset="utf-8">
+    $(document).ready(function() {
+        var socket = io();
+        socket.on('connect', function() {
+            socket.emit('my event', {
+                data: `${socket.id}`
+            });
+        });
+        socket.on('my response', function(data) {
+            $("#body").html(`<h1>${data.data}</h1>`);
+            console.log(data)
+        })
+    });
+</script>
+
+</html>
