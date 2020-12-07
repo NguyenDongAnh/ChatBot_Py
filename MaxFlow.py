@@ -11,21 +11,25 @@ class Graph:
         queue=[] 
           
         queue.append(s) 
+        #Đánh dấu đỉnh đã đi qua
         visited[s] = True
 
-        while queue: 
-  
-            v = queue.pop(0) 
+        while queue:
+            #Lấy một đỉnh ra khỏi hàng đợi và xóa
+            u = queue.pop(0) 
           
-            for ind, val in enumerate(self.graph[v]): 
-                if visited[ind] == False and val > 0 : 
-                    queue.append(ind) 
-                    visited[ind] = True
-                    parent[ind] = v 
-
+            for index, val in enumerate(self.graph[u]): 
+                if visited[index] == False and val > 0 : 
+                    #thêm đỉnh kề với u vào hàng đợi
+                    queue.append(index) 
+                    visited[index] = True
+                    #Lưu giữ vị trí đỉnh cha
+                    parent[index] = u 
+        
+        #Trả về true nếu đến được đỉnh t, false nếu không
         return True if visited[t] else False           
       
-    def Dinic(self, source, sink): 
+    def FordFulkerson(self, source, sink): 
         parent = [-1]*(self.ROW) 
   
         max_flow = 0 
@@ -39,7 +43,7 @@ class Graph:
                 s = parent[s] 
   
             max_flow +=  path_flow 
-  
+
             v = sink 
             while(v !=  source): 
                 u = parent[v] 
@@ -57,4 +61,4 @@ if __name__ == "__main__":
             [0, 0, 0, 7, 0, 4], 
             [0, 0, 0, 0, 0, 0]] 
     g = Graph(graph)
-    print(g.Dinic(0,len(graph)-1))
+    print(g.FordFulkerson(0,len(graph)-1))
