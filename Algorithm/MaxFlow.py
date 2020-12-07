@@ -1,3 +1,5 @@
+from flask_socketio import emit
+import time
 class Graph: 
    
     def __init__(self,graph): 
@@ -22,8 +24,17 @@ class Graph:
                     queue.append(ind) 
                     visited[ind] = True
                     parent[ind] = u 
-  
-        return True if visited[t] else False
+        if visited[t] :
+            v = t
+            path = str(t)
+            while(v !=  s):
+                v = parent[v]
+                path = path +"<-"+ str(v)
+            emit("new message",{'message' : 'Chọn đường đi: {}'.format(path),'tag':"new message"})
+            time.sleep(0.3)
+            return True  
+        else:
+            return False
               
       
     def FordFulkerson(self, source, sink): 
