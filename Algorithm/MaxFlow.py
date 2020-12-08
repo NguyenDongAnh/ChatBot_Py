@@ -29,9 +29,9 @@ class Graph:
             path = str(t)
             while(v !=  s):
                 v = parent[v]
-                path = path +"<-"+ str(v)
-            emit("new message",{'message' : 'Chọn đường đi: {}'.format(path),'tag':"new message"})
-            time.sleep(0.3)
+                path = path +">-"+ str(v)
+            # time.sleep(0.5)
+            emit("new message",{'message' : 'Chọn đường đi: {}'.format(path[::-1]),'tag':"new message"})
             return True  
         else:
             return False
@@ -58,5 +58,8 @@ class Graph:
                 self.graph[u][v] -= path_flow 
                 self.graph[v][u] += path_flow 
                 v = parent[v] 
-  
+            string = '<table><tr>'+'</tr><tr>'.join([''.join(['<td>{:3}</td>'.format(item) for item in row]) for row in self.graph])+'</tr></table>'            
+            emit("new message",{'message' : 'Ma trận phần dư: <br>'+string,'tag':"new message"})
+            # time.sleep(0.3)
+        emit("new message",{'message' : 'Không còn đường đi nữa !','tag':"new message"})
         return max_flow 
