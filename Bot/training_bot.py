@@ -11,7 +11,7 @@ from nltk_utils import bag_of_words, tokenize, stem, no_accent_vietnamese
 from model import NeuralNet
 
 start_time = time.time()
-with open(r'H:\ChatBot\Bot\intents.json', 'r',encoding='utf8') as f:
+with open(r'/ChatBot/Bot/intents.json', 'r',encoding='utf8') as f:
     intents = json.load(f)
 
 all_words = []
@@ -126,7 +126,7 @@ data = {
 "tags": tags
 }
 
-FILE = r"H:\ChatBot\Bot\data.pth"
+FILE = r"/ChatBot/Bot/data.pth"
 torch.save(data, FILE)
 
 print(f'training complete. file saved to {FILE}')

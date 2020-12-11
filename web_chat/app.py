@@ -3,8 +3,8 @@ from flask_socketio import SocketIO, emit
 import socketio
 import sys,json
 import numpy as np
-sys.path.append(r'H:\ChatBot\Bot')
-sys.path.append(r'H:\ChatBot\Algorithm')
+sys.path.append(r'/ChatBot/Bot')
+sys.path.append(r'/ChatBot/Algorithm')
 # import training_bot
 from chat import bot_message
 from MaxFlow import Graph
@@ -63,7 +63,7 @@ def input_N(data):
         emit("input_N",{'message' : 'Bạn nhập sai rồi, vui lòng nhập lại:','tag':"max_flow"})
         check = False
     if(check):
-        emit("input_N",{'message' : 'Nhập dữ liệu cho lần lượt từng hàng của ma trận nhé, mỗi số cách nhau \" \" nhé, hông mình không tính được đâu:','tag':"input_row", 'N':N})
+        emit("input_N",{'message' : 'Nhập dữ liệu cho ma trận kề của đồ thị, nhập lần lượt từng hàng của ma trận nhé, mỗi số cách nhau \" \" nhé, hông mình không tính được đâu:','tag':"input_row", 'N':N})
 
 @socketio.on('input_row')
 def input_row(data):
@@ -77,7 +77,9 @@ def input_row(data):
     if(int(data['count'])==int(data['N'])):
         graph = np.array(data['graph']).astype(int)
         graph = np.array(graph).reshape(int(data['N']),int(data['N']))
-        emit("input_row",{'message' : 'Kết quả luồng cực đại là: {}'.format(Graph(graph).FordFulkerson(0,int(data['N'])-1)),'tag':"new message"})
+        string = '<table>\n<tr>'+'</tr>\n<tr>'.join([''.join(['<td>{:3}</td>'.format(item) for item in row]) for row in graph])+'</tr>\n</table>'
+        emit("new message",{'message' : 'Ma trận kề: <br>'+string,'tag':"new message"})
+        emit("new message",{'message' : 'Kết quả luồng cực đại là: {}'.format(Graph(graph).FordFulkerson(0,int(data['N'])-1)),'tag':"new message"})
 
 ################################
 if __name__ == '__main__':

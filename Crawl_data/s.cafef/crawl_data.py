@@ -1,5 +1,5 @@
 import re,sys,os
-sys.path.append(r'H:\ChatBot\Crawl_data\database')
+sys.path.append(r'/ChatBot/Crawl_data/database')
 from selenium import *
 from helium import *
 from selenium.webdriver.common.by import By

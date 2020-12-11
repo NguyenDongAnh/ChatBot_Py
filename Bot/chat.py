@@ -54,10 +54,10 @@ model.eval()
 
 
 device = torch.device('cpu')
-with open(r'H:\ChatBot\Bot\intents.json', 'r',encoding='utf8') as json_data:
+with open(r'/ChatBot/Bot/intents.json', 'r',encoding='utf8') as json_data:
     intents = json.load(json_data)
 
-FILE = r"H:\ChatBot\Bot\data.pth"
+FILE = r"/ChatBot/Bot/data.pth"
 data = torch.load(FILE)
 
 input_size = data["input_size"]

@@ -31,5 +31,6 @@ advanced_search.click()
 # for e in list_link:
 #     if(e.get_attribute('href')!= None):
 #         print(e.get_attribute('href'))
-whether = driver.find_element_by_id("wob_wc").screenshot_as_png("thoitiet")
+whether = driver.find_element_by_id("wob_wc").screenshot()
+
 driver.quit()

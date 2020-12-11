@@ -100,7 +100,7 @@
         {
             "tag": "max_flow",
             "patterns": ["max flow", "max_flow"],
-            "responses": ["Vui lòng nhập số chiều ma trận:"]
+            "responses": ["Vui lòng nhập số đỉnh đồ thị:"]
         },
         {
             "tag": "help",
