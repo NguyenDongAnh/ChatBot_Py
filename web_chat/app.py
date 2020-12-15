@@ -3,14 +3,14 @@ from flask_socketio import SocketIO, emit
 import socketio
 import sys,json
 import numpy as np
-sys.path.append(r'/ChatBot/Bot')
-sys.path.append(r'/ChatBot/Algorithm')
+sys.path.append(r'/ChatBot_Py/Bot')
+sys.path.append(r'/ChatBot_Py/Algorithm')
 # import training_bot
 from chat import bot_message
 from MaxFlow import Graph
 
 ###############################
-app = Flask(__name__,static_url_path='',static_folder="H:/ChatBot/web_chat/static")
+app = Flask(__name__,static_url_path='',static_folder="/ChatBot_Py/web_chat/static")
 # static_files = {
 #     '/': 'latency.html',
 #     '/static/socket.io.js': 'static/socket.io.js',
@@ -83,4 +83,4 @@ def input_row(data):
 
 ################################
 if __name__ == '__main__':
-    socketio.run(app,host = "192.168.2.170", port = 3000, debug=True)
+    socketio.run(app,host = "192.168.0.55", port = 3000, debug=True)

@@ -2,17 +2,16 @@ import random
 import json
 import sys
 import torch
-# sys.path.append(r'H:\ChatBot\Bot')
 from model import NeuralNet
 from nltk_utils import bag_of_words, tokenize
 
 from flask_socketio import emit
-# device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-device = torch.device('cpu')
-with open(r'H:\ChatBot\Bot\intents.json', 'r',encoding='utf8') as json_data:
+device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+# device = torch.device('cpu')
+with open(r'/ChatBot_Py/Bot/intents.json', 'r',encoding='utf8') as json_data:
     intents = json.load(json_data)
 
-FILE = r"H:\ChatBot\Bot\data.pth"
+FILE = r"/ChatBot_Py/Bot/data.pth"
 data = torch.load(FILE)
 
 input_size = data["input_size"]
@@ -54,10 +53,10 @@ model.eval()
 
 
 device = torch.device('cpu')
-with open(r'/ChatBot/Bot/intents.json', 'r',encoding='utf8') as json_data:
+with open(r'/ChatBot_Py/Bot/intents.json', 'r',encoding='utf8') as json_data:
     intents = json.load(json_data)
 
-FILE = r"/ChatBot/Bot/data.pth"
+FILE = r"/ChatBot_Py/Bot/data.pth"
 data = torch.load(FILE)
 
 input_size = data["input_size"]

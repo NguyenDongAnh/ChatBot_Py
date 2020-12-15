@@ -9,7 +9,7 @@ import sys,time
 
 start_time = time.time()
 
-file_stock_code = open(r'H:\ChatBot\Crawl_data\database\list_stock_code.txt','r+')
+file_stock_code = open(r'/ChatBot_Py/Crawl_data/database/list_stock_code.txt','r+')
 list_stock_code = file_stock_code.read().split('\n')
 URL = 'http://liveboard.cafef.vn/'
 # print(list_stock_code)

@@ -1,5 +1,5 @@
 import re,sys,os
-sys.path.append(r'/ChatBot/Crawl_data/database')
+sys.path.append(r'/ChatBot_Py/Crawl_data/database')
 from selenium import *
 from helium import *
 from selenium.webdriver.common.by import By
@@ -16,7 +16,7 @@ import sql_query
 URL = 'https://s.cafef.vn/Lich-su-giao-dich-{}-1.chn'
 
 #Insert Data
-file_stock_code = open(r'H:\ChatBot\Crawl_data\database\list_stock_code.txt','r')
+file_stock_code = open(r'/ChatBot_Py/Crawl_data/database/list_stock_code.txt','r')
 list_stock_code = file_stock_code.read().split('\n')
 try:
     for i in range(0,5):
