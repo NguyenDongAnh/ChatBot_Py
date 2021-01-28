@@ -68,9 +68,44 @@
             "responses": ["Không có gì.", "hân hạnh được phục vụ bạn."]
         },
         {
+            "tag": "member1",
+            "patterns": ["ĐA", "Đông Anh", "Nguyễn Đông Anh", "Đông_Anh", "Nguyễn_Đông_Anh", "NgĐôngA", "NgĐôngAnh"],
+            "responses": ["Đẹp trai nhất nhóm, best phờ ren của các bạn"]
+        },
+        {
+            "tag": "member2",
+            "patterns": ["Minh", "Quang MInh", "Nguyen Quang Minh", "NguyenQuang Minh", "Nguyen QuangMinh", "NgQuangMinh", "NgQuagMinh"],
+            "responses": ["Đẹp trai nhưng thua Đông Anh", "Có người yêu xinh vcc", "Hay lợi dụng bạn bè một tý thôi ", "Triết lý nhân sinh của Minh: <br><img src=\"/image/minhsosuch.jpg\" style=\"width:100%;background-size:cover;\">"]
+        },
+        {
+            "tag": "member3",
+            "patterns": ["Tuấn", "Nam Tuấn", "Nguyễn Nam Tuấn", "Nam_Tuấn", "Nguyễn_Nam_Tuấn"],
+            "responses": ["Đẹp zai thua mỗi Đông Anh, nam tính điển hình của các chị em, Ai Eo 6.5", "Bạn của Đông Anh đẹp trai, vui tính"]
+        },
+        {
+            "tag": "member4",
+            "patterns": ["Chung", "Đỗ Văn Chung", "Văn Chung", "Đỗ Chung", "Đỗ_Văn_Chung", "Văn_Chung", "Đỗ_Chung"],
+            "responses": ["Nhóm trưởng, xấu zai, không có người yêu"]
+        },
+        {
+            "tag": "teacher",
+            "patterns": ["Dũng", "Hoàng Nam Dũng", "Nam Dũng", "Hoàng_Nam_Dũng", "Nam_Dũng"],
+            "responses": ["Người thầy đẹp zai, luôn luôn vui tươi, thu nhập gần tỷ/tháng <br><img src=\"/image/HND.jpg\" style=\"width:100%;background-size:cover;\">"]
+        },
+        {
+            "tag": "swearing",
+            "patterns": ["Địt Mẹ", "Địt", "Địt mẹ mày", "ĐM ấn độ", "Địt mẹ ĐA", "Địt mẹ Đông Anh", "Đông Anh hindu", "Đụ mẹ", "ĐCM", "ĐKM", "Ấn Độ", "Đông Anh hindi", "Đông Anh cô dâu 8 tuổi", "Đông Anh india"],
+            "responses": ["Á à, láo nhỉ", "Có ăn có học mà nói thế à !", "Trốn mau đi đừng để tao bắt được", "Bố láo bố lếu !", "Mấy đứa nhóc này, ăn đấm đấy."]
+        },
+        {
+            "tag": "max_flow",
+            "patterns": ["max flow", "max_flow"],
+            "responses": ["Vui lòng nhập số đỉnh đồ thị:"]
+        },
+        {
             "tag": "help",
             "patterns": ["help", "bạn có thể làm gì ?", "mày có thể làm gì ?", "mày làm gì ?"],
-            "responses": ["Giá cổ phiếu: <br>1.AAA theo ngày, <br>2.AAA theo tháng"]
+            "responses": ["Giới thiệu thành viên: <br>1.Đỗ Văn Chung, <br>2.Nguyễn Quang Minh, <br>3.Nguyễn Đông Anh, <br>4.Nguyễn Nam Tuấn <br>Thầy giáo: Hoàng Nam Dũng, <br>gõ tên người bạn muốn được giới thiệu ra nhé !", "Mình còn biết tính Max Flow nè, bạn nào muốn mình tính thì gõ từ khóa : \"Max Flow\" "]
         }
     ]
 }

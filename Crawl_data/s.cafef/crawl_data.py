@@ -9,14 +9,14 @@ import datetime
 import time
 from bs4 import BeautifulSoup
 start_time = time.time()
-import get_stocks_code_scafef
+# import get_stocks_code_scafef
 from db import db, cursor, Error
 import sql_query
 
 URL = 'https://s.cafef.vn/Lich-su-giao-dich-{}-1.chn'
 
 #Insert Data
-file_stock_code = open(r'/ChatBot_Py/Crawl_data/database/list_stock_code.txt','r')
+file_stock_code = open(r'/ChatBot_Py/Crawl_data/MySQL/database/list_stock_code.txt','r')
 list_stock_code = file_stock_code.read().split('\n')
 try:
     for i in range(0,5):
@@ -28,7 +28,7 @@ except:
 
 def crawl_data(URL,STOCK_CODE):
     try:
-        driver = start_chrome(URL.format(STOCK_CODE),headless=True)
+        driver = start_chrome(URL.format(STOCK_CODE),headless=False)
         wait = WebDriverWait(driver, 10)
         wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'bobottom')))
         for e in range(1,5):

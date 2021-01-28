@@ -1,0 +1,103 @@
+{
+    "intents": [{
+            "tag": "AAA",
+            "patterns": [
+                "AAA",
+                "Công ty Cổ phần Nhựa An Phát Xanh (An Phat Bioplastics., JSC)"
+            ],
+            "responses": [
+                "AAA"
+            ]
+        },
+        {
+            "tag": "AAM",
+            "patterns": [
+                "AAM",
+                "Công ty Cổ phần Thủy sản Mekong (MEKONGFISH)"
+            ],
+            "responses": [
+                "AAM"
+            ]
+        },
+        {
+            "tag": "ABS",
+            "patterns": [
+                "ABS",
+                "Công ty cổ phần Dịch vụ Nông nghiệp Bình Thuận (Bitagco)"
+            ],
+            "responses": [
+                "ABS"
+            ]
+        },
+        {
+            "tag": "ABT",
+            "patterns": [
+                "ABT",
+                "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre (AQUATEX BENTRE )"
+            ],
+            "responses": [
+                "ABT"
+            ]
+        },
+        {
+            "tag": "ACB",
+            "patterns": [
+                "ACB",
+                "Ngân hàng Thương mại Cổ phần Á Châu (ACB)"
+            ],
+            "responses": [
+                "ACB"
+            ]
+        },
+        {
+            "tag": "ACC",
+            "patterns": [
+                "ACC",
+                "Công ty Cổ phần Đầu tư và Xây dựng Bình Dương ACC (BECAMEX ACC)"
+            ],
+            "responses": [
+                "ACC"
+            ]
+        },
+        {
+            "tag": "ACL",
+            "patterns": [
+                "ACL",
+                "Công ty cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang (CL - Fish Corp )"
+            ],
+            "responses": [
+                "ACL"
+            ]
+        },
+        {
+            "tag": "ADS",
+            "patterns": [
+                "ADS",
+                "Công ty cổ phần Damsan (Damsan JSC)"
+            ],
+            "responses": [
+                "ADS"
+            ]
+        },
+        {
+            "tag": "AGG",
+            "patterns": [
+                "AGG",
+                "Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia (An Gia)"
+            ],
+            "responses": [
+                "AGG"
+            ]
+        },
+        {
+            "tag": "AGM",
+            "patterns": [
+                "AGM",
+                "Công ty cổ phần Xuất nhập khẩu An Giang (Angimex)"
+            ],
+            "responses": [
+                "AGM"
+            ]
+        },
+    ]
+}

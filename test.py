@@ -5,7 +5,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 # URL = "27.79.245.84:3000"
-URL = "http://192.168.2.170:3000/"
+URL = "http://192.168.0.55:3000/"
 driver = start_chrome(URL)
 WebDriverWait(driver, 10).until(
     EC.presence_of_element_located((By.CLASS_NAME, "message"))
