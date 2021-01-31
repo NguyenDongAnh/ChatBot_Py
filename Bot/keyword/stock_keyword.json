@@ -3,101 +3,5545 @@
             "tag": "AAA",
             "patterns": [
                 "AAA",
-                "Công ty Cổ phần Nhựa An Phát Xanh (An Phat Bioplastics., JSC)"
+                "Công ty Cổ phần Nhựa An Phát Xanh ",
+                "An Phat Bioplastics., JSC"
             ],
             "responses": [
                 "AAA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nhựa An Phát Xanh "
             ]
         },
         {
             "tag": "AAM",
             "patterns": [
                 "AAM",
-                "Công ty Cổ phần Thủy sản Mekong (MEKONGFISH)"
+                "Công ty Cổ phần Thủy sản Mekong ",
+                "MEKONGFISH"
             ],
             "responses": [
                 "AAM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thủy sản Mekong "
             ]
         },
         {
             "tag": "ABS",
             "patterns": [
                 "ABS",
-                "Công ty cổ phần Dịch vụ Nông nghiệp Bình Thuận (Bitagco)"
+                "Công ty cổ phần Dịch vụ Nông nghiệp Bình Thuận ",
+                "Bitagco"
             ],
             "responses": [
                 "ABS"
+            ],
+            "name_company": [
+                "Công ty cổ phần Dịch vụ Nông nghiệp Bình Thuận "
             ]
         },
         {
             "tag": "ABT",
             "patterns": [
                 "ABT",
-                "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre (AQUATEX BENTRE )"
+                "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre ",
+                "AQUATEX BENTRE "
             ],
             "responses": [
                 "ABT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre "
             ]
         },
         {
             "tag": "ACB",
             "patterns": [
                 "ACB",
-                "Ngân hàng Thương mại Cổ phần Á Châu (ACB)"
+                "Ngân hàng Thương mại Cổ phần Á Châu ",
+                "ACB"
             ],
             "responses": [
                 "ACB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại Cổ phần Á Châu "
             ]
         },
         {
             "tag": "ACC",
             "patterns": [
                 "ACC",
-                "Công ty Cổ phần Đầu tư và Xây dựng Bình Dương ACC (BECAMEX ACC)"
+                "Công ty Cổ phần Đầu tư và Xây dựng Bình Dương ACC ",
+                "BECAMEX ACC"
             ],
             "responses": [
                 "ACC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Xây dựng Bình Dương ACC "
             ]
         },
         {
             "tag": "ACL",
             "patterns": [
                 "ACL",
-                "Công ty cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang (CL - Fish Corp )"
+                "Công ty cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang ",
+                "CL - Fish Corp "
             ],
             "responses": [
                 "ACL"
+            ],
+            "name_company": [
+                "Công ty cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang "
             ]
         },
         {
             "tag": "ADS",
             "patterns": [
                 "ADS",
-                "Công ty cổ phần Damsan (Damsan JSC)"
+                "Công ty cổ phần Damsan ",
+                "Damsan JSC"
             ],
             "responses": [
                 "ADS"
+            ],
+            "name_company": [
+                "Công ty cổ phần Damsan "
             ]
         },
         {
             "tag": "AGG",
             "patterns": [
                 "AGG",
-                "Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia (An Gia)"
+                "Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia ",
+                "An Gia"
             ],
             "responses": [
                 "AGG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia "
             ]
         },
         {
             "tag": "AGM",
             "patterns": [
                 "AGM",
-                "Công ty cổ phần Xuất nhập khẩu An Giang (Angimex)"
+                "Công ty cổ phần Xuất nhập khẩu An Giang ",
+                "Angimex"
             ],
             "responses": [
                 "AGM"
+            ],
+            "name_company": [
+                "Công ty cổ phần Xuất nhập khẩu An Giang "
             ]
         },
+        {
+            "tag": "AGR",
+            "patterns": [
+                "AGR",
+                "Công ty Cổ phần Chứng khoán Agribank ",
+                "Agriseco"
+            ],
+            "responses": [
+                "AGR"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chứng khoán Agribank "
+            ]
+        },
+        {
+            "tag": "AMD",
+            "patterns": [
+                "AMD",
+                "Công ty cổ phần Đầu tư và Khoáng sản FLC Stone ",
+                "FLC STONE.,JSC"
+            ],
+            "responses": [
+                "AMD"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư và Khoáng sản FLC Stone "
+            ]
+        },
+        {
+            "tag": "ANV",
+            "patterns": [
+                "ANV",
+                "Công ty Cổ phần Nam Việt  ",
+                "NAVICO"
+            ],
+            "responses": [
+                "ANV"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nam Việt  "
+            ]
+        },
+        {
+            "tag": "APC",
+            "patterns": [
+                "APC",
+                "Công ty Cổ phần Chiếu xạ An Phú ",
+                "API.Co."
+            ],
+            "responses": [
+                "APC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chiếu xạ An Phú "
+            ]
+        },
+        {
+            "tag": "APG",
+            "patterns": [
+                "APG",
+                "Công ty Cổ phần Chứng khoán APG ",
+                "APG"
+            ],
+            "responses": [
+                "APG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chứng khoán APG "
+            ]
+        },
+        {
+            "tag": "APH",
+            "patterns": [
+                "APH",
+                "Công ty Cổ phần Tập đoàn An Phát Holdings ",
+                "Tập đoàn An Phát Holdings"
+            ],
+            "responses": [
+                "APH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn An Phát Holdings "
+            ]
+        },
+        {
+            "tag": "ASG",
+            "patterns": [
+                "ASG",
+                "Cổ phiếu Công ty Cổ phần Tập đoàn ASG ",
+                "ASG., CORP"
+            ],
+            "responses": [
+                "ASG"
+            ],
+            "name_company": [
+                "Cổ phiếu Công ty Cổ phần Tập đoàn ASG "
+            ]
+        },
+        {
+            "tag": "ASM",
+            "patterns": [
+                "ASM",
+                "Công ty Cổ phần Tập đoàn Sao Mai ",
+                "SAOMAI GROUP"
+            ],
+            "responses": [
+                "ASM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Sao Mai "
+            ]
+        },
+        {
+            "tag": "ASP",
+            "patterns": [
+                "ASP",
+                "Công ty Cổ phần Tập đoàn Dầu khí An Pha ",
+                "AN PHA S.G PETROL JSC"
+            ],
+            "responses": [
+                "ASP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Dầu khí An Pha "
+            ]
+        },
+        {
+            "tag": "AST",
+            "patterns": [
+                "AST",
+                "Công ty Cổ phần Dịch vụ Hàng không Taseco ",
+                "Taseco Airs"
+            ],
+            "responses": [
+                "AST"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dịch vụ Hàng không Taseco "
+            ]
+        },
+        {
+            "tag": "BBC",
+            "patterns": [
+                "BBC",
+                "Công ty Cổ phần Bibica ",
+                "BIBICA"
+            ],
+            "responses": [
+                "BBC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bibica "
+            ]
+        },
+        {
+            "tag": "BCE",
+            "patterns": [
+                "BCE",
+                "Công ty Cổ phần Xây dựng và Giao thông Bình Dương ",
+                "Becamex BCE"
+            ],
+            "responses": [
+                "BCE"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xây dựng và Giao thông Bình Dương "
+            ]
+        },
+        {
+            "tag": "BCG",
+            "patterns": [
+                "BCG",
+                "Công ty cổ phần Bamboo Capital ",
+                "BCG"
+            ],
+            "responses": [
+                "BCG"
+            ],
+            "name_company": [
+                "Công ty cổ phần Bamboo Capital "
+            ]
+        },
+        {
+            "tag": "BCM",
+            "patterns": [
+                "BCM",
+                "Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP ",
+                "Becamex IDC Corp"
+            ],
+            "responses": [
+                "BCM"
+            ],
+            "name_company": [
+                "Tổng Công ty Đầu tư và phát triển Công nghiệp - CTCP "
+            ]
+        },
+        {
+            "tag": "BFC",
+            "patterns": [
+                "BFC",
+                "Công ty cổ phần Phân bón Bình Điền ",
+                "BFC"
+            ],
+            "responses": [
+                "BFC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Phân bón Bình Điền "
+            ]
+        },
+        {
+            "tag": "BHN",
+            "patterns": [
+                "BHN",
+                "Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội ",
+                "HABECO"
+            ],
+            "responses": [
+                "BHN"
+            ],
+            "name_company": [
+                "Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội "
+            ]
+        },
+        {
+            "tag": "BIC",
+            "patterns": [
+                "BIC",
+                "Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và phát triển Việt Nam ",
+                "BIC"
+            ],
+            "responses": [
+                "BIC"
+            ],
+            "name_company": [
+                "Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và phát triển Việt Nam "
+            ]
+        },
+        {
+            "tag": "BID",
+            "patterns": [
+                "BID",
+                "Ngân hàng Thương mại cổ phần Đầu tư và Phát triển Việt Nam ",
+                "BIDV"
+            ],
+            "responses": [
+                "BID"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại cổ phần Đầu tư và Phát triển Việt Nam "
+            ]
+        },
+        {
+            "tag": "BKG",
+            "patterns": [
+                "BKG",
+                "Công ty Cổ phần Đầu tư BKG Việt Nam ",
+                "BKGVIETNAM INVESTMENT.,JSC"
+            ],
+            "responses": [
+                "BKG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư BKG Việt Nam "
+            ]
+        },
+        {
+            "tag": "BMC",
+            "patterns": [
+                "BMC",
+                "Công ty cổ phần Khoáng sản Bình Định ",
+                "BIMICO "
+            ],
+            "responses": [
+                "BMC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Khoáng sản Bình Định "
+            ]
+        },
+        {
+            "tag": "BMI",
+            "patterns": [
+                "BMI",
+                "Tổng Công ty Cổ phần Bảo Minh ",
+                "Bao Minh"
+            ],
+            "responses": [
+                "BMI"
+            ],
+            "name_company": [
+                "Tổng Công ty Cổ phần Bảo Minh "
+            ]
+        },
+        {
+            "tag": "BMP",
+            "patterns": [
+                "BMP",
+                "Công ty Cổ phần Nhựa Bình Minh  ",
+                "BMPLASCO "
+            ],
+            "responses": [
+                "BMP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nhựa Bình Minh  "
+            ]
+        },
+        {
+            "tag": "BRC",
+            "patterns": [
+                "BRC",
+                "Công ty Cổ phần Cao su Bến Thành ",
+                "BERUB JSC"
+            ],
+            "responses": [
+                "BRC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cao su Bến Thành "
+            ]
+        },
+        {
+            "tag": "BTP",
+            "patterns": [
+                "BTP",
+                "Công ty Cổ phần Nhiệt điện Bà Rịa "
+
+            ],
+            "responses": [
+                "BTP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nhiệt điện Bà Rịa "
+            ]
+        },
+        {
+            "tag": "BTT",
+            "patterns": [
+                "BTT",
+                "Công ty Cổ phần Thương mại - Dịch vụ Bến Thành ",
+                "BEN THANH TSC"
+            ],
+            "responses": [
+                "BTT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thương mại - Dịch vụ Bến Thành "
+            ]
+        },
+        {
+            "tag": "BVH",
+            "patterns": [
+                "BVH",
+                "Tập đoàn Bảo Việt ",
+                "TẬP ĐOÀN BẢO VIỆT"
+            ],
+            "responses": [
+                "BVH"
+            ],
+            "name_company": [
+                "Tập đoàn Bảo Việt "
+            ]
+        },
+        {
+            "tag": "BWE",
+            "patterns": [
+                "BWE",
+                "Công ty Cổ phần Nước – Môi trường Bình Dương ",
+                "BIWASE"
+            ],
+            "responses": [
+                "BWE"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nước – Môi trường Bình Dương "
+            ]
+        },
+        {
+            "tag": "C32",
+            "patterns": [
+                "C32",
+                "Công ty Cổ phần CIC39 ",
+                "CIC3-2"
+            ],
+            "responses": [
+                "C32"
+            ],
+            "name_company": [
+                "Công ty Cổ phần CIC39 "
+            ]
+        },
+        {
+            "tag": "C47",
+            "patterns": [
+                "C47",
+                "Công ty Cổ phần Xây dựng 47 ",
+                "CC47"
+            ],
+            "responses": [
+                "C47"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xây dựng 47 "
+            ]
+        },
+        {
+            "tag": "CAV",
+            "patterns": [
+                "CAV",
+                "Công ty cổ phần Dây Cáp Điện Việt Nam ",
+                "CADIVI"
+            ],
+            "responses": [
+                "CAV"
+            ],
+            "name_company": [
+                "Công ty cổ phần Dây Cáp Điện Việt Nam "
+            ]
+        },
+        {
+            "tag": "CCI",
+            "patterns": [
+                "CCI",
+                "Công ty Cổ phần Đầu tư Phát triển Công nghiệp - Thương mại Củ Chi ",
+                "CIDICO"
+            ],
+            "responses": [
+                "CCI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Phát triển Công nghiệp - Thương mại Củ Chi "
+            ]
+        },
+        {
+            "tag": "CCL",
+            "patterns": [
+                "CCL",
+                "Công ty cổ phần Đầu tư và Phát triển Đô thị Dầu khí Cửu Long ",
+                "PVCL"
+            ],
+            "responses": [
+                "CCL"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư và Phát triển Đô thị Dầu khí Cửu Long "
+            ]
+        },
+        {
+            "tag": "CDC",
+            "patterns": [
+                "CDC",
+                "Công ty Cổ phần Chương Dương   ",
+                "Chương Dương ACIC"
+            ],
+            "responses": [
+                "CDC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chương Dương   "
+            ]
+        },
+        {
+            "tag": "CEE",
+            "patterns": [
+                "CEE",
+                "Công ty Cổ phần Xây dựng Hạ tầng CII ",
+                "CII E&C"
+            ],
+            "responses": [
+                "CEE"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xây dựng Hạ tầng CII "
+            ]
+        },
+        {
+            "tag": "CHP",
+            "patterns": [
+                "CHP",
+                "Công ty Cổ phần Thủy điện miền Trung ",
+                "CHP"
+            ],
+            "responses": [
+                "CHP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thủy điện miền Trung "
+            ]
+        },
+        {
+            "tag": "CII",
+            "patterns": [
+                "CII",
+                "Công ty cổ phần Đầu tư Hạ tầng Kỹ thuật T.P Hồ Chí Minh ",
+                "CII "
+            ],
+            "responses": [
+                "CII"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư Hạ tầng Kỹ thuật T.P Hồ Chí Minh "
+            ]
+        },
+        {
+            "tag": "CKG",
+            "patterns": [
+                "CKG",
+                "CTCP Tập đoàn Tư vấn Đầu tư & Xây dựng Kiên Giang ",
+                "CIC GROUP"
+            ],
+            "responses": [
+                "CKG"
+            ],
+            "name_company": [
+                "CTCP Tập đoàn Tư vấn Đầu tư & Xây dựng Kiên Giang "
+            ]
+        },
+        {
+            "tag": "CLC",
+            "patterns": [
+                "CLC",
+                "Công ty Cổ phần Cát Lợi  ",
+                "CLC. "
+            ],
+            "responses": [
+                "CLC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cát Lợi  "
+            ]
+        },
+        {
+            "tag": "CLL",
+            "patterns": [
+                "CLL",
+                "Công ty cổ phần Cảng Cát Lái ",
+                "Cat Lai Port JSC"
+            ],
+            "responses": [
+                "CLL"
+            ],
+            "name_company": [
+                "Công ty cổ phần Cảng Cát Lái "
+            ]
+        },
+        {
+            "tag": "CLW",
+            "patterns": [
+                "CLW",
+                "Công ty Cổ phần Cấp nước Chợ Lớn ",
+                "CHOLON WASUCO JSC"
+            ],
+            "responses": [
+                "CLW"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cấp nước Chợ Lớn "
+            ]
+        },
+        {
+            "tag": "CMG",
+            "patterns": [
+                "CMG",
+                "Công ty Cổ phần Tập đoàn Công nghệ CMC ",
+                "CMC Corp"
+            ],
+            "responses": [
+                "CMG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Công nghệ CMC "
+            ]
+        },
+        {
+            "tag": "CMV",
+            "patterns": [
+                "CMV",
+                "Công ty Cổ phần Thương nghiệp Cà Mau ",
+                "Camex"
+            ],
+            "responses": [
+                "CMV"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thương nghiệp Cà Mau "
+            ]
+        },
+        {
+            "tag": "CMX",
+            "patterns": [
+                "CMX",
+                "Công ty Cổ phần Camimex Group ",
+                "CAMIMEX Group"
+            ],
+            "responses": [
+                "CMX"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Camimex Group "
+            ]
+        },
+        {
+            "tag": "CNG",
+            "patterns": [
+                "CNG",
+                "Công ty cổ phần CNG Việt Nam ",
+                "CNG VietNam"
+            ],
+            "responses": [
+                "CNG"
+            ],
+            "name_company": [
+                "Công ty cổ phần CNG Việt Nam "
+            ]
+        },
+        {
+            "tag": "COM",
+            "patterns": [
+                "COM",
+                "Công ty Cổ phần Vật tư - Xăng dầu  ",
+                "COMECO"
+            ],
+            "responses": [
+                "COM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vật tư - Xăng dầu  "
+            ]
+        },
+        {
+            "tag": "CRC",
+            "patterns": [
+                "CRC",
+                "Công ty Cổ phần Create Capital Việt Nam"
+
+            ],
+            "responses": [
+                "CRC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vật tư - Xăng dầu  "
+            ]
+        },
+        {
+            "tag": "CRE",
+            "patterns": [
+                "CRE",
+                "Công ty Cổ phần Bất động sản Thế Kỷ ",
+                "CENTURY LAND, JSC hoặc CENLAND"
+            ],
+            "responses": [
+                "CRE"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bất động sản Thế Kỷ "
+            ]
+        },
+        {
+            "tag": "CSM",
+            "patterns": [
+                "CSM",
+                "Công ty Cổ phần Công nghiệp Cao su Miền Nam ",
+                "CASUMINA"
+            ],
+            "responses": [
+                "CSM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Công nghiệp Cao su Miền Nam "
+            ]
+        },
+        {
+            "tag": "CSV",
+            "patterns": [
+                "CSV",
+                "Công ty Cổ phần Hóa chất Cơ bản miền Nam ",
+                "SBCC"
+            ],
+            "responses": [
+                "CSV"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Hóa chất Cơ bản miền Nam "
+            ]
+        },
+        {
+            "tag": "CTD",
+            "patterns": [
+                "CTD",
+                "Công ty Cổ phần Xây dựng Coteccons ",
+                "COTECCONS"
+            ],
+            "responses": [
+                "CTD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xây dựng Coteccons "
+            ]
+        },
+        {
+            "tag": "CTF",
+            "patterns": [
+                "CTF",
+                "Công ty cổ phần City Auto ",
+                "City Auto Corp"
+            ],
+            "responses": [
+                "CTF"
+            ],
+            "name_company": [
+                "Công ty cổ phần City Auto "
+            ]
+        },
+        {
+            "tag": "CTG",
+            "patterns": [
+                "CTG",
+                "Ngân hàng Thương mại Cổ phần Công thương Việt Nam ",
+                "Vietinbank"
+            ],
+            "responses": [
+                "CTG"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại Cổ phần Công thương Việt Nam "
+            ]
+        },
+        {
+            "tag": "CTI",
+            "patterns": [
+                "CTI",
+                "Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO ",
+                "CTC"
+            ],
+            "responses": [
+                "CTI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO "
+            ]
+        },
+        {
+            "tag": "CTS",
+            "patterns": [
+                "CTS",
+                "Công ty cổ phần Chứng khoán Ngân hàng Công thương Việt Nam ",
+                "VietinBankSc"
+            ],
+            "responses": [
+                "CTS"
+            ],
+            "name_company": [
+                "Công ty cổ phần Chứng khoán Ngân hàng Công thương Việt Nam "
+            ]
+        },
+        {
+            "tag": "CVT",
+            "patterns": [
+                "CVT",
+                "Công ty Cổ phần CMC ",
+                "CMC J.S.C"
+            ],
+            "responses": [
+                "CVT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần CMC "
+            ]
+        },
+        {
+            "tag": "D2D",
+            "patterns": [
+                "D2D",
+                "Công ty Cổ phần Phát triển Đô thị Công nghiệp Số 2 ",
+                "D2D"
+            ],
+            "responses": [
+                "D2D"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Phát triển Đô thị Công nghiệp Số 2 "
+            ]
+        },
+        {
+            "tag": "DAG",
+            "patterns": [
+                "DAG",
+                "Công ty Cổ phần Tập đoàn Nhựa Đông Á ",
+                "Tập đoàn Đông Á"
+            ],
+            "responses": [
+                "DAG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Nhựa Đông Á "
+            ]
+        },
+        {
+            "tag": "DAH",
+            "patterns": [
+                "DAH",
+                "Công ty cổ phần Tập đoàn Khách sạn Đông Á ",
+                "DONG A HOTEL GROUP., JSC"
+            ],
+            "responses": [
+                "DAH"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn Khách sạn Đông Á "
+            ]
+        },
+        {
+            "tag": "DAT",
+            "patterns": [
+                "DAT",
+                "Công ty Cổ phần Đầu tư Du lịch và Phát triển Thủy sản ",
+                "TRISEDCO "
+            ],
+            "responses": [
+                "DAT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Du lịch và Phát triển Thủy sản "
+            ]
+        },
+        {
+            "tag": "DBC",
+            "patterns": [
+                "DBC",
+                "Công ty Cổ phần Tập đoàn Dabaco Việt Nam ",
+                "DABACO"
+            ],
+            "responses": [
+                "DBC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Dabaco Việt Nam "
+            ]
+        },
+        {
+            "tag": "DBD",
+            "patterns": [
+                "DBD",
+                "Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định ",
+                "Bidiphar"
+            ],
+            "responses": [
+                "DBD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định "
+            ]
+        },
+        {
+            "tag": "DBT",
+            "patterns": [
+                "DBT",
+                "Công ty Cổ phần Dược phẩm Bến Tre ",
+                "BEPHARCO"
+            ],
+            "responses": [
+                "DBT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dược phẩm Bến Tre "
+            ]
+        },
+        {
+            "tag": "DC4",
+            "patterns": [
+                "DC4",
+                "Công ty Cổ phần Xây dựng DIC Holdings ",
+                "DIC.Cons"
+            ],
+            "responses": [
+                "DC4"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xây dựng DIC Holdings "
+            ]
+        },
+        {
+            "tag": "DCL",
+            "patterns": [
+                "DCL",
+                "Công ty Cổ phần Dược phẩm Cửu Long ",
+                "PHARIMEXCO"
+            ],
+            "responses": [
+                "DCL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dược phẩm Cửu Long "
+            ]
+        },
+        {
+            "tag": "DCM",
+            "patterns": [
+                "DCM",
+                "Công ty Cổ phần Phân bón Dầu khí Cà Mau ",
+                "PVCFC"
+            ],
+            "responses": [
+                "DCM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Phân bón Dầu khí Cà Mau "
+            ]
+        },
+        {
+            "tag": "DGC",
+            "patterns": [
+                "DGC",
+                "Công ty Cổ phần Tập đoàn Hóa chất Đức Giang ",
+                "DGC"
+            ],
+            "responses": [
+                "DGC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Hóa chất Đức Giang "
+            ]
+        },
+        {
+            "tag": "DGW",
+            "patterns": [
+                "DGW",
+                "Công ty cổ phần Thế giới số ",
+                "DIGIWORLD"
+            ],
+            "responses": [
+                "DGW"
+            ],
+            "name_company": [
+                "Công ty cổ phần Thế giới số "
+            ]
+        },
+        {
+            "tag": "DHA",
+            "patterns": [
+                "DHA",
+                "Công ty Cổ phần Hóa An ",
+                "H.A.J.S.C"
+            ],
+            "responses": [
+                "DHA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Hóa An "
+            ]
+        },
+        {
+            "tag": "DHC",
+            "patterns": [
+                "DHC",
+                "Công ty Cổ phần Đông Hải Bến Tre ",
+                "DOHACO"
+            ],
+            "responses": [
+                "DHC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đông Hải Bến Tre "
+            ]
+        },
+        {
+            "tag": "DHG",
+            "patterns": [
+                "DHG",
+                "Công ty Cổ phần Dược Hậu Giang ",
+                "DHG"
+            ],
+            "responses": [
+                "DHG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dược Hậu Giang "
+            ]
+        },
+        {
+            "tag": "DHM",
+            "patterns": [
+                "DHM",
+                "Công ty cổ phần Thương mại và khai thác khoáng sản Dương Hiếu ",
+                "DH JSC"
+            ],
+            "responses": [
+                "DHM"
+            ],
+            "name_company": [
+                "Công ty cổ phần Thương mại và khai thác khoáng sản Dương Hiếu "
+            ]
+        },
+        {
+            "tag": "DIG",
+            "patterns": [
+                "DIG",
+                "Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng ",
+                "DIC CORP"
+            ],
+            "responses": [
+                "DIG"
+            ],
+            "name_company": [
+                "Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng "
+            ]
+        },
+        {
+            "tag": "DLG",
+            "patterns": [
+                "DLG",
+                "Công ty Cổ phần Tập đoàn Đức Long Gia Lai ",
+                "DLG GROUP"
+            ],
+            "responses": [
+                "DLG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Đức Long Gia Lai "
+            ]
+        },
+        {
+            "tag": "DMC",
+            "patterns": [
+                "DMC",
+                "Công ty Cổ phần Xuất nhập khẩu Y tế Domesco ",
+                "DOMESCO "
+            ],
+            "responses": [
+                "DMC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xuất nhập khẩu Y tế Domesco "
+            ]
+        },
+        {
+            "tag": "DPG",
+            "patterns": [
+                "DPG",
+                "Công ty Cổ phần Đạt Phương ",
+                "Dat Phuong Joint.,.JSC"
+            ],
+            "responses": [
+                "DPG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đạt Phương "
+            ]
+        },
+        {
+            "tag": "DPM",
+            "patterns": [
+                "DPM",
+                "Tổng Công ty Phân bón và Hóa chất Dầu khí-CTCP ",
+                "PVFCCo"
+            ],
+            "responses": [
+                "DPM"
+            ],
+            "name_company": [
+                "Tổng Công ty Phân bón và Hóa chất Dầu khí-CTCP "
+            ]
+        },
+        {
+            "tag": "DPR",
+            "patterns": [
+                "DPR",
+                "Công ty Cổ phần Cao su Đồng Phú ",
+                "DORUCO"
+            ],
+            "responses": [
+                "DPR"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cao su Đồng Phú "
+            ]
+        },
+        {
+            "tag": "DQC",
+            "patterns": [
+                "DQC",
+                "Công ty Cổ phần Bóng đèn Điện Quang  ",
+                "DQ JSC"
+            ],
+            "responses": [
+                "DQC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bóng đèn Điện Quang  "
+            ]
+        },
+        {
+            "tag": "DRC",
+            "patterns": [
+                "DRC",
+                "Công ty Cổ phần Cao su Đà Nẵng ",
+                "DRC "
+            ],
+            "responses": [
+                "DRC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cao su Đà Nẵng "
+            ]
+        },
+        {
+            "tag": "DRH",
+            "patterns": [
+                "DRH",
+                "Công ty cổ phần DRH Holdings ",
+                "DRH Holdings"
+            ],
+            "responses": [
+                "DRH"
+            ],
+            "name_company": [
+                "Công ty cổ phần DRH Holdings "
+            ]
+        },
+        {
+            "tag": "DRL",
+            "patterns": [
+                "DRL",
+                "Công ty Cổ phần Thủy điện – Điện lực 3 ",
+                "PC3,HP.Co"
+            ],
+            "responses": [
+                "DRL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thủy điện – Điện lực 3 "
+            ]
+        },
+        {
+            "tag": "DSN",
+            "patterns": [
+                "DSN",
+                "Công ty Cổ phần Công viên nước Đầm Sen ",
+                "DASECO"
+            ],
+            "responses": [
+                "DSN"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Công viên nước Đầm Sen "
+            ]
+        },
+        {
+            "tag": "DTA",
+            "patterns": [
+                "DTA",
+                "Công ty Cổ phần Đệ Tam ",
+                "DETACO"
+            ],
+            "responses": [
+                "DTA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đệ Tam "
+            ]
+        },
+        {
+            "tag": "DTL",
+            "patterns": [
+                "DTL",
+                "Công ty Cổ phần Đại Thiên Lộc ",
+                "DTLS"
+            ],
+            "responses": [
+                "DTL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đại Thiên Lộc "
+            ]
+        },
+        {
+            "tag": "DTT",
+            "patterns": [
+                "DTT",
+                "Công ty Cổ phần Kỹ nghệ Đô Thành ",
+                "DTT "
+            ],
+            "responses": [
+                "DTT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Kỹ nghệ Đô Thành "
+            ]
+        },
+        {
+            "tag": "DVP",
+            "patterns": [
+                "DVP",
+                "Công ty cổ phần Đầu tư và Phát triển Cảng Đình Vũ ",
+                "Dinh Vu Port J.S.C"
+            ],
+            "responses": [
+                "DVP"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư và Phát triển Cảng Đình Vũ "
+            ]
+        },
+        {
+            "tag": "DXG",
+            "patterns": [
+                "DXG",
+                "Công ty Cổ phần Tập đoàn Đất Xanh ",
+                "Datxanh Group"
+            ],
+            "responses": [
+                "DXG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Đất Xanh "
+            ]
+        },
+        {
+            "tag": "DXV",
+            "patterns": [
+                "DXV",
+                "Công ty Cổ phần VICEM Vật liệu Xây dựng Đà Nẵng ",
+                "COXIVA"
+            ],
+            "responses": [
+                "DXV"
+            ],
+            "name_company": [
+                "Công ty Cổ phần VICEM Vật liệu Xây dựng Đà Nẵng "
+            ]
+        },
+        {
+            "tag": "EIB",
+            "patterns": [
+                "EIB",
+                "Ngân hàng Thương mại Cổ phần Xuất nhập khẩu Việt Nam ",
+                "Vietnam Eximbank"
+            ],
+            "responses": [
+                "EIB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại Cổ phần Xuất nhập khẩu Việt Nam "
+            ]
+        },
+        {
+            "tag": "ELC",
+            "patterns": [
+                "ELC",
+                "Công ty Cổ phần Đầu tư Phát triển Công nghệ Điện tử Viễn thông ",
+                "ELCOM CORP"
+            ],
+            "responses": [
+                "ELC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Phát triển Công nghệ Điện tử Viễn thông "
+            ]
+        },
+        {
+            "tag": "EMC",
+            "patterns": [
+                "EMC",
+                "Công ty cổ phần Cơ điện Thủ Đức "
+
+            ],
+            "responses": [
+                "EMC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Cơ điện Thủ Đức "
+            ]
+        },
+        {
+            "tag": "EVE",
+            "patterns": [
+                "EVE",
+                "Công ty cổ phần Everpia ",
+                "Everpia"
+            ],
+            "responses": [
+                "EVE"
+            ],
+            "name_company": [
+                "Công ty cổ phần Everpia "
+            ]
+        },
+        {
+            "tag": "EVG",
+            "patterns": [
+                "EVG",
+                "Công ty Cổ phần Đầu tư Everland ",
+                "EVG., JSC"
+            ],
+            "responses": [
+                "EVG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Everland "
+            ]
+        },
+        {
+            "tag": "FCM",
+            "patterns": [
+                "FCM",
+                "Công ty cổ phần Khoáng sản FECON ",
+                "Fecon Mining"
+            ],
+            "responses": [
+                "FCM"
+            ],
+            "name_company": [
+                "Công ty cổ phần Khoáng sản FECON "
+            ]
+        },
+        {
+            "tag": "FCN",
+            "patterns": [
+                "FCN",
+                "Công ty cổ phần FECON ",
+                "FECON"
+            ],
+            "responses": [
+                "FCN"
+            ],
+            "name_company": [
+                "Công ty cổ phần FECON "
+            ]
+        },
+        {
+            "tag": "FDC",
+            "patterns": [
+                "FDC",
+                "Công ty Cổ phần Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh ",
+                "FIDECO"
+            ],
+            "responses": [
+                "FDC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Ngoại thương và Phát triển Đầu tư Thành phố Hồ Chí Minh "
+            ]
+        },
+        {
+            "tag": "FIR",
+            "patterns": [
+                "FIR",
+                "Công ty Cổ phần Địa ốc First Real ",
+                "FIRST REAL.JSC"
+            ],
+            "responses": [
+                "FIR"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Địa ốc First Real "
+            ]
+        },
+        {
+            "tag": "FIT",
+            "patterns": [
+                "FIT",
+                "Công ty cổ phần Tập đoàn F.I.T ",
+                "FIT Group., JSC"
+            ],
+            "responses": [
+                "FIT"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn F.I.T "
+            ]
+        },
+        {
+            "tag": "FLC",
+            "patterns": [
+                "FLC",
+                "Công ty cổ phần Tập đoàn FLC ",
+                "FLC., JSC"
+            ],
+            "responses": [
+                "FLC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn FLC "
+            ]
+        },
+        {
+            "tag": "FMC",
+            "patterns": [
+                "FMC",
+                "Công ty Cổ phần Thực phẩm Sao Ta  ",
+                "Sao Ta Foods Joint Stock Company"
+            ],
+            "responses": [
+                "FMC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thực phẩm Sao Ta  "
+            ]
+        },
+        {
+            "tag": "FPT",
+            "patterns": [
+                "FPT",
+                "Công ty Cổ phần FPT  ",
+                "FPT Corp"
+            ],
+            "responses": [
+                "FPT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần FPT  "
+            ]
+        },
+        {
+            "tag": "FRT",
+            "patterns": [
+                "FRT",
+                "Công ty cổ phần Bán lẻ Kỹ thuật số FPT ",
+                "FPT Retail"
+            ],
+            "responses": [
+                "FRT"
+            ],
+            "name_company": [
+                "Công ty cổ phần Bán lẻ Kỹ thuật số FPT "
+            ]
+        },
+        {
+            "tag": "FTM",
+            "patterns": [
+                "FTM",
+                "Công ty Cổ phần Đầu tư và Phát triển Đức Quân"
+
+            ],
+            "responses": [
+                "FTM"
+            ],
+            "name_company": [
+                "Công ty cổ phần Bán lẻ Kỹ thuật số FPT "
+            ]
+        },
+        {
+            "tag": "FTS",
+            "patterns": [
+                "FTS",
+                "Công ty Cổ phần Chứng khoán FPT ",
+                "FPTS"
+            ],
+            "responses": [
+                "FTS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chứng khoán FPT "
+            ]
+        },
+        {
+            "tag": "FUCTVGF1",
+            "patterns": [
+                "FUCTVGF1",
+                "Quỹ Đầu tư tăng trưởng TVAM ",
+                "TVGF"
+            ],
+            "responses": [
+                "FUCTVGF1"
+            ],
+            "name_company": [
+                "Quỹ Đầu tư tăng trưởng TVAM "
+            ]
+        },
+        {
+            "tag": "FUCTVGF2",
+            "patterns": [
+                "FUCTVGF2",
+                "Quỹ Đầu tư tăng trưởng Thiên Việt 2 ",
+                "TVGF2"
+            ],
+            "responses": [
+                "FUCTVGF2"
+            ],
+            "name_company": [
+                "Quỹ Đầu tư tăng trưởng Thiên Việt 2 "
+            ]
+        },
+        {
+            "tag": "FUCVREIT",
+            "patterns": [
+                "FUCVREIT",
+                "Quỹ Đầu tư Bất động sản Techcom Việt Nam ",
+                "TC REIT"
+            ],
+            "responses": [
+                "FUCVREIT"
+            ],
+            "name_company": [
+                "Quỹ Đầu tư Bất động sản Techcom Việt Nam "
+            ]
+        },
+        {
+            "tag": "GAB",
+            "patterns": [
+                "GAB",
+                "Công ty Cổ phần Đầu tư khai khoáng và Quản lý tài sản FLC ",
+                "Công ty Cổ phần Đầu tư khai khoáng và Quản lý tài "
+            ],
+            "responses": [
+                "GAB"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư khai khoáng và Quản lý tài sản FLC "
+            ]
+        },
+        {
+            "tag": "GAS",
+            "patterns": [
+                "GAS",
+                "Tổng Công ty Khí Việt Nam-CTCP ",
+                "PVGas"
+            ],
+            "responses": [
+                "GAS"
+            ],
+            "name_company": [
+                "Tổng Công ty Khí Việt Nam-CTCP "
+            ]
+        },
+        {
+            "tag": "GDT",
+            "patterns": [
+                "GDT",
+                "Công ty Cổ phần Chế biến Gỗ Đức Thành ",
+                "DTWOODVN"
+            ],
+            "responses": [
+                "GDT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chế biến Gỗ Đức Thành "
+            ]
+        },
+        {
+            "tag": "GEG",
+            "patterns": [
+                "GEG",
+                "Công ty cổ phần Điện Gia Lai ",
+                "GEC"
+            ],
+            "responses": [
+                "GEG"
+            ],
+            "name_company": [
+                "Công ty cổ phần Điện Gia Lai "
+            ]
+        },
+        {
+            "tag": "GEX",
+            "patterns": [
+                "GEX",
+                "Tổng Công ty cổ phần Thiết bị điện Việt Nam ",
+                "Gelex"
+            ],
+            "responses": [
+                "GEX"
+            ],
+            "name_company": [
+                "Tổng Công ty cổ phần Thiết bị điện Việt Nam "
+            ]
+        },
+        {
+            "tag": "GIL",
+            "patterns": [
+                "GIL",
+                "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh ",
+                "GILIMEX "
+            ],
+            "responses": [
+                "GIL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh "
+            ]
+        },
+        {
+            "tag": "GMC",
+            "patterns": [
+                "GMC",
+                "Công ty Cổ phần Garmex Sài Gòn ",
+                "GARMEX SAIGON JS"
+            ],
+            "responses": [
+                "GMC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Garmex Sài Gòn "
+            ]
+        },
+        {
+            "tag": "GMD",
+            "patterns": [
+                "GMD",
+                "Công ty Cổ phần Gemadept ",
+                "Gemadept "
+            ],
+            "responses": [
+                "GMD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Gemadept "
+            ]
+        },
+        {
+            "tag": "GSP",
+            "patterns": [
+                "GSP",
+                "Công ty cổ phần Vận tải Sản phẩm khí quốc tế ",
+                "GAS SHIPPING JSC"
+            ],
+            "responses": [
+                "GSP"
+            ],
+            "name_company": [
+                "Công ty cổ phần Vận tải Sản phẩm khí quốc tế "
+            ]
+        },
+        {
+            "tag": "GTA",
+            "patterns": [
+                "GTA",
+                "Công ty Cổ phần Chế biến Gỗ Thuận An ",
+                "T.A.C "
+            ],
+            "responses": [
+                "GTA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chế biến Gỗ Thuận An "
+            ]
+        },
+        {
+            "tag": "GTN",
+            "patterns": [
+                "GTN",
+                "Công ty cổ phần GTNfoods ",
+                "GTNfoods"
+            ],
+            "responses": [
+                "GTN"
+            ],
+            "name_company": [
+                "Công ty cổ phần GTNfoods "
+            ]
+        },
+        {
+            "tag": "GVR",
+            "patterns": [
+                "GVR",
+                "Tập đoàn Công nghiệp Cao su Việt Nam ",
+                "VRG"
+            ],
+            "responses": [
+                "GVR"
+            ],
+            "name_company": [
+                "Tập đoàn Công nghiệp Cao su Việt Nam "
+            ]
+        },
+        {
+            "tag": "HAG",
+            "patterns": [
+                "HAG",
+                "Công ty Cổ phần Hoàng Anh Gia Lai ",
+                "HAGL"
+            ],
+            "responses": [
+                "HAG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Hoàng Anh Gia Lai "
+            ]
+        },
+        {
+            "tag": "HAH",
+            "patterns": [
+                "HAH",
+                "Công ty Cổ phần Vận tải và Xếp dỡ Hải An ",
+                "HAIANTS.,JSC"
+            ],
+            "responses": [
+                "HAH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vận tải và Xếp dỡ Hải An "
+            ]
+        },
+        {
+            "tag": "HAI",
+            "patterns": [
+                "HAI",
+                "Công ty Cổ phần Nông dược H.A.I ",
+                "HAI jsc"
+            ],
+            "responses": [
+                "HAI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nông dược H.A.I "
+            ]
+        },
+        {
+            "tag": "HAP",
+            "patterns": [
+                "HAP",
+                "Công ty Cổ phần Tập đoàn Hapaco ",
+                "HAPACO "
+            ],
+            "responses": [
+                "HAP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Hapaco "
+            ]
+        },
+        {
+            "tag": "HAR",
+            "patterns": [
+                "HAR",
+                "Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền ",
+                "Công ty Cổ phần An Dương Thảo Điền"
+            ],
+            "responses": [
+                "HAR"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền "
+            ]
+        },
+        {
+            "tag": "HAS",
+            "patterns": [
+                "HAS",
+                "Công ty Cổ phần HACISCO ",
+                "HACISCO "
+            ],
+            "responses": [
+                "HAS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần HACISCO "
+            ]
+        },
+        {
+            "tag": "HAX",
+            "patterns": [
+                "HAX",
+                "Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh ",
+                "HAXACO "
+            ],
+            "responses": [
+                "HAX"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh "
+            ]
+        },
+        {
+            "tag": "HBC",
+            "patterns": [
+                "HBC",
+                "Công ty cổ phần Tập đoàn Xây dựng Hoà Bình ",
+                "HoaBinh Corporation"
+            ],
+            "responses": [
+                "HBC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn Xây dựng Hoà Bình "
+            ]
+        },
+        {
+            "tag": "HCD",
+            "patterns": [
+                "HCD",
+                "Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD ",
+                "HCD INVESTPRO., JSC"
+            ],
+            "responses": [
+                "HCD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD "
+            ]
+        },
+        {
+            "tag": "HCM",
+            "patterns": [
+                "HCM",
+                "Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh ",
+                "HSC"
+            ],
+            "responses": [
+                "HCM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh "
+            ]
+        },
+        {
+            "tag": "HDB",
+            "patterns": [
+                "HDB",
+                "Ngân hàng TMCP Phát triển T.P Hồ Chí Minh ",
+                "HDBANK"
+            ],
+            "responses": [
+                "HDB"
+            ],
+            "name_company": [
+                "Ngân hàng TMCP Phát triển T.P Hồ Chí Minh "
+            ]
+        },
+        {
+            "tag": "HDC",
+            "patterns": [
+                "HDC",
+                "Công ty Cổ phần Phát triển nhà Bà Rịa-Vũng Tàu ",
+                "Hodeco"
+            ],
+            "responses": [
+                "HDC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Phát triển nhà Bà Rịa-Vũng Tàu "
+            ]
+        },
+        {
+            "tag": "HDG",
+            "patterns": [
+                "HDG",
+                "Công ty Cổ phần Tập đoàn Hà Đô ",
+                "Hadoco., JSC"
+            ],
+            "responses": [
+                "HDG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Hà Đô "
+            ]
+        },
+        {
+            "tag": "HHS",
+            "patterns": [
+                "HHS",
+                "Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy ",
+                "HHS"
+            ],
+            "responses": [
+                "HHS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy "
+            ]
+        },
+        {
+            "tag": "HID",
+            "patterns": [
+                "HID",
+                "Công ty Cổ phần Halcom Việt Nam ",
+                "HALCOM., JSC"
+            ],
+            "responses": [
+                "HID"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Halcom Việt Nam "
+            ]
+        },
+        {
+            "tag": "HII",
+            "patterns": [
+                "HII",
+                "Công ty Cổ phần An Tiến Industries ",
+                "Antien Industries.,.JSC"
+            ],
+            "responses": [
+                "HII"
+            ],
+            "name_company": [
+                "Công ty Cổ phần An Tiến Industries "
+            ]
+        },
+        {
+            "tag": "HMC",
+            "patterns": [
+                "HMC",
+                "Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel"
+
+            ],
+            "responses": [
+                "HMC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần An Tiến Industries "
+            ]
+        },
+        {
+            "tag": "HNG",
+            "patterns": [
+                "HNG",
+                "Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai ",
+                "HAGL AGRICO"
+            ],
+            "responses": [
+                "HNG"
+            ],
+            "name_company": [
+                "Công ty cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai "
+            ]
+        },
+        {
+            "tag": "HOT",
+            "patterns": [
+                "HOT",
+                "Công ty cổ phần Du lịch - Dịch vụ Hội An ",
+                "HOIAN TOURIST SERVICE Co"
+            ],
+            "responses": [
+                "HOT"
+            ],
+            "name_company": [
+                "Công ty cổ phần Du lịch - Dịch vụ Hội An "
+            ]
+        },
+        {
+            "tag": "HPG",
+            "patterns": [
+                "HPG",
+                "Công ty cổ phần Tập đoàn Hòa Phát ",
+                "Hoa Phat Group"
+            ],
+            "responses": [
+                "HPG"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn Hòa Phát "
+            ]
+        },
+        {
+            "tag": "HPX",
+            "patterns": [
+                "HPX",
+                "Công ty cổ phần Đầu tư Hải Phát ",
+                "HAI PHAT INVEST"
+            ],
+            "responses": [
+                "HPX"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư Hải Phát "
+            ]
+        },
+        {
+            "tag": "HQC",
+            "patterns": [
+                "HQC",
+                "Công ty cổ phần Tư vấn-Thương mại-Dịch vụ Địa ốc Hoàng Quân ",
+                "HOANG QUAN CORP"
+            ],
+            "responses": [
+                "HQC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tư vấn-Thương mại-Dịch vụ Địa ốc Hoàng Quân "
+            ]
+        },
+        {
+            "tag": "HRC",
+            "patterns": [
+                "HRC",
+                "Công ty Cổ phần Cao su Hòa Bình ",
+                "HRC "
+            ],
+            "responses": [
+                "HRC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cao su Hòa Bình "
+            ]
+        },
+        {
+            "tag": "HSG",
+            "patterns": [
+                "HSG",
+                "Công ty Cổ phần Tập đoàn Hoa Sen ",
+                "HOASEN GROUP"
+            ],
+            "responses": [
+                "HSG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Hoa Sen "
+            ]
+        },
+        {
+            "tag": "HSL",
+            "patterns": [
+                "HSL",
+                "Công ty Cổ phần Đầu tư Phát triển Thực phẩm Hồng Hà ",
+                "HONGHA SONLA., JSC"
+            ],
+            "responses": [
+                "HSL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Phát triển Thực phẩm Hồng Hà "
+            ]
+        },
+        {
+            "tag": "HT1",
+            "patterns": [
+                "HT1",
+                "Công ty Cổ phần Xi Măng Vicem Hà Tiên ",
+                "VICEM HA TIEN 1.J.S.CO"
+            ],
+            "responses": [
+                "HT1"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xi Măng Vicem Hà Tiên "
+            ]
+        },
+        {
+            "tag": "HTI",
+            "patterns": [
+                "HTI",
+                "Công ty Cổ phần Đầu tư phát triển hạ tầng IDICO ",
+                "IDICO-IDI.JSC "
+            ],
+            "responses": [
+                "HTI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư phát triển hạ tầng IDICO "
+            ]
+        },
+        {
+            "tag": "HTL",
+            "patterns": [
+                "HTL",
+                "Công ty Cổ phần Kỹ thuật và Ô tô Trường Long ",
+                "Truong Long JSC"
+            ],
+            "responses": [
+                "HTL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Kỹ thuật và Ô tô Trường Long "
+            ]
+        },
+        {
+            "tag": "HTN",
+            "patterns": [
+                "HTN",
+                "Công ty Cổ phần Hưng Thịnh Incons ",
+                "Hưng Thịnh Incons"
+            ],
+            "responses": [
+                "HTN"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Hưng Thịnh Incons "
+            ]
+        },
+        {
+            "tag": "HTV",
+            "patterns": [
+                "HTV",
+                "Công ty Cổ phần Logistics Vicem ",
+                "HATIEN TRANSCO"
+            ],
+            "responses": [
+                "HTV"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Logistics Vicem "
+            ]
+        },
+        {
+            "tag": "HU1",
+            "patterns": [
+                "HU1",
+                "Công ty Cổ phần Đầu tư và Xây dựng HUD1 ",
+                "HUD1.,JSC"
+            ],
+            "responses": [
+                "HU1"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Xây dựng HUD1 "
+            ]
+        },
+        {
+            "tag": "HU3",
+            "patterns": [
+                "HU3",
+                "Công ty cổ phần Đầu tư và Xây dựng HUD3 ",
+                "HUD3"
+            ],
+            "responses": [
+                "HU3"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư và Xây dựng HUD3 "
+            ]
+        },
+        {
+            "tag": "HUB",
+            "patterns": [
+                "HUB",
+                "Công ty cổ phần Xây lắp Thừa Thiên Huế ",
+                "HCC"
+            ],
+            "responses": [
+                "HUB"
+            ],
+            "name_company": [
+                "Công ty cổ phần Xây lắp Thừa Thiên Huế "
+            ]
+        },
+        {
+            "tag": "HVH",
+            "patterns": [
+                "HVH",
+                "Công ty Cổ phần Đầu tư và Công nghệ HVC ",
+                "HVC.,JSC"
+            ],
+            "responses": [
+                "HVH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Công nghệ HVC "
+            ]
+        },
+        {
+            "tag": "HVN",
+            "patterns": [
+                "HVN",
+                "Tổng Công ty Hàng không Việt Nam - CTCP ",
+                "Vietnam Airlines"
+            ],
+            "responses": [
+                "HVN"
+            ],
+            "name_company": [
+                "Tổng Công ty Hàng không Việt Nam - CTCP "
+            ]
+        },
+        {
+            "tag": "HVX",
+            "patterns": [
+                "HVX",
+                "Công ty Cổ phần Xi măng Vicem Hải Vân ",
+                "Vicem Hải Vân"
+            ],
+            "responses": [
+                "HVX"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xi măng Vicem Hải Vân "
+            ]
+        },
+        {
+            "tag": "IBC",
+            "patterns": [
+                "IBC",
+                "Công ty Cổ phần Đầu tư Apax Holdings ",
+                "IBCI"
+            ],
+            "responses": [
+                "IBC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Apax Holdings "
+            ]
+        },
+        {
+            "tag": "ICT",
+            "patterns": [
+                "ICT",
+                "Công ty cổ phần Viễn thông - Tin học Bưu điện ",
+                "CT-IN"
+            ],
+            "responses": [
+                "ICT"
+            ],
+            "name_company": [
+                "Công ty cổ phần Viễn thông - Tin học Bưu điện "
+            ]
+        },
+        {
+            "tag": "IDI",
+            "patterns": [
+                "IDI",
+                "Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I ",
+                "IDI"
+            ],
+            "responses": [
+                "IDI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I "
+            ]
+        },
+        {
+            "tag": "IJC",
+            "patterns": [
+                "IJC",
+                "Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật  ",
+                "BECAMEX IJC"
+            ],
+            "responses": [
+                "IJC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật  "
+            ]
+        },
+        {
+            "tag": "ILB",
+            "patterns": [
+                "ILB",
+                "Công ty Cổ phần ICD Tân Cảng – Long Bình ",
+                "ILB"
+            ],
+            "responses": [
+                "ILB"
+            ],
+            "name_company": [
+                "Công ty Cổ phần ICD Tân Cảng – Long Bình "
+            ]
+        },
+        {
+            "tag": "IMP",
+            "patterns": [
+                "IMP",
+                "Công ty Cổ phần Dược phẩm IMEXPHARM  ",
+                "IMEXPHARM "
+            ],
+            "responses": [
+                "IMP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dược phẩm IMEXPHARM  "
+            ]
+        },
+        {
+            "tag": "ITA",
+            "patterns": [
+                "ITA",
+                "Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo ",
+                "ITACO "
+            ],
+            "responses": [
+                "ITA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo "
+            ]
+        },
+        {
+            "tag": "ITC",
+            "patterns": [
+                "ITC",
+                "Công ty Cổ phần Đầu tư - Kinh doanh nhà ",
+                "INTRESCO"
+            ],
+            "responses": [
+                "ITC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư - Kinh doanh nhà "
+            ]
+        },
+        {
+            "tag": "ITD",
+            "patterns": [
+                "ITD",
+                "Công ty Cổ phần Công nghệ Tiên Phong ",
+                "ITD Corporation"
+            ],
+            "responses": [
+                "ITD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Công nghệ Tiên Phong "
+            ]
+        },
+        {
+            "tag": "JVC",
+            "patterns": [
+                "JVC",
+                "Công ty cổ phần Thiết bị Y tế Việt Nhật ",
+                "JV., JSC"
+            ],
+            "responses": [
+                "JVC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Thiết bị Y tế Việt Nhật "
+            ]
+        },
+        {
+            "tag": "KBC",
+            "patterns": [
+                "KBC",
+                "Tổng Công ty Phát triển Đô thị Kinh Bắc-CTCP ",
+                "KinhBac City"
+            ],
+            "responses": [
+                "KBC"
+            ],
+            "name_company": [
+                "Tổng Công ty Phát triển Đô thị Kinh Bắc-CTCP "
+            ]
+        },
+        {
+            "tag": "KDC",
+            "patterns": [
+                "KDC",
+                "Công ty Cổ phần Tập đoàn Kido ",
+                "Kido Group"
+            ],
+            "responses": [
+                "KDC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Kido "
+            ]
+        },
+        {
+            "tag": "KDH",
+            "patterns": [
+                "KDH",
+                "Công ty Cổ phần Đầu tư Kinh doanh nhà Khang Điền ",
+                "KhadiHouse., JSC"
+            ],
+            "responses": [
+                "KDH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Kinh doanh nhà Khang Điền "
+            ]
+        },
+        {
+            "tag": "KHP",
+            "patterns": [
+                "KHP",
+                "Công ty Cổ phần Điện lực Khánh Hòa ",
+                "KHPC"
+            ],
+            "responses": [
+                "KHP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Điện lực Khánh Hòa "
+            ]
+        },
+        {
+            "tag": "KMR",
+            "patterns": [
+                "KMR",
+                "Công ty Cổ phần Mirae ",
+                "MIRAE., JSC "
+            ],
+            "responses": [
+                "KMR"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Mirae "
+            ]
+        },
+        {
+            "tag": "KOS",
+            "patterns": [
+                "KOS",
+                "Công ty Cổ phần Kosy ",
+                "KOSY.,JSC"
+            ],
+            "responses": [
+                "KOS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Kosy "
+            ]
+        },
+        {
+            "tag": "KPF",
+            "patterns": [
+                "KPF",
+                "Công ty Cổ phần Đầu tư tài chính Hoàng Minh ",
+                "HM FINANCE INVEST.,JSC"
+            ],
+            "responses": [
+                "KPF"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư tài chính Hoàng Minh "
+            ]
+        },
+        {
+            "tag": "KSB",
+            "patterns": [
+                "KSB",
+                "Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương ",
+                "BIMICO"
+            ],
+            "responses": [
+                "KSB"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương "
+            ]
+        },
+        {
+            "tag": "L10",
+            "patterns": [
+                "L10",
+                "Công ty cổ phần Lilama 10  ",
+                "Lilama 10.,JSC"
+            ],
+            "responses": [
+                "L10"
+            ],
+            "name_company": [
+                "Công ty cổ phần Lilama 10  "
+            ]
+        },
+        {
+            "tag": "LAF",
+            "patterns": [
+                "LAF",
+                "Công ty Cổ phần Chế biến Hàng xuất khẩu Long An ",
+                "LAFOOCO "
+            ],
+            "responses": [
+                "LAF"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chế biến Hàng xuất khẩu Long An "
+            ]
+        },
+        {
+            "tag": "LBM",
+            "patterns": [
+                "LBM",
+                "Công ty Cổ phần Khoáng sản và Vật liệu xây dựng Lâm Đồng ",
+                "LBM "
+            ],
+            "responses": [
+                "LBM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Khoáng sản và Vật liệu xây dựng Lâm Đồng "
+            ]
+        },
+        {
+            "tag": "LCG",
+            "patterns": [
+                "LCG",
+                "Công ty cổ phần LICOGI 16 ",
+                "LICOGI 16"
+            ],
+            "responses": [
+                "LCG"
+            ],
+            "name_company": [
+                "Công ty cổ phần LICOGI 16 "
+            ]
+        },
+        {
+            "tag": "LCM",
+            "patterns": [
+                "LCM",
+                "Công ty Cổ phần Khai thác và Chế biến Khoáng sản Lào Cai ",
+                "LAOCAI JSC"
+            ],
+            "responses": [
+                "LCM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Khai thác và Chế biến Khoáng sản Lào Cai "
+            ]
+        },
+        {
+            "tag": "LDG",
+            "patterns": [
+                "LDG",
+                "Công ty Cổ phần Đầu tư LDG ",
+                "Dragonland JSC"
+            ],
+            "responses": [
+                "LDG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư LDG "
+            ]
+        },
+        {
+            "tag": "LEC",
+            "patterns": [
+                "LEC",
+                "Công ty Cổ phần Bất động sản Điện lực Miền Trung  ",
+                "EVNLAND-CENTRAL "
+            ],
+            "responses": [
+                "LEC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bất động sản Điện lực Miền Trung  "
+            ]
+        },
+        {
+            "tag": "LGC",
+            "patterns": [
+                "LGC",
+                "Công ty Cổ phần Đầu tư Cầu đường CII ",
+                "CII Bridge & Road"
+            ],
+            "responses": [
+                "LGC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Cầu đường CII "
+            ]
+        },
+        {
+            "tag": "LGL",
+            "patterns": [
+                "LGL",
+                "Công ty cổ phần Đầu tư và Phát triển Đô thị Long Giang ",
+                "Long Giang Land"
+            ],
+            "responses": [
+                "LGL"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư và Phát triển Đô thị Long Giang "
+            ]
+        },
+        {
+            "tag": "LHG",
+            "patterns": [
+                "LHG",
+                "Công ty Cổ phần Long Hậu ",
+                "LHC"
+            ],
+            "responses": [
+                "LHG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Long Hậu "
+            ]
+        },
+        {
+            "tag": "LIX",
+            "patterns": [
+                "LIX",
+                "Công ty Cổ phần Bột giặt Lix ",
+                "Lixco"
+            ],
+            "responses": [
+                "LIX"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bột giặt Lix "
+            ]
+        },
+        {
+            "tag": "LM8",
+            "patterns": [
+                "LM8",
+                "Công ty Cổ phần Lilama 18 ",
+                "LILAMA 18 JSC"
+            ],
+            "responses": [
+                "LM8"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Lilama 18 "
+            ]
+        },
+        {
+            "tag": "LPB",
+            "patterns": [
+                "LPB",
+                "Ngân hàng TMCP Bưu điện Liên Việt ",
+                "LienVietPostBank"
+            ],
+            "responses": [
+                "LPB"
+            ],
+            "name_company": [
+                "Ngân hàng TMCP Bưu điện Liên Việt "
+            ]
+        },
+        {
+            "tag": "LSS",
+            "patterns": [
+                "LSS",
+                "Công ty Cổ phần Mía đường Lam Sơn ",
+                "LASUCO JSC"
+            ],
+            "responses": [
+                "LSS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Mía đường Lam Sơn "
+            ]
+        },
+        {
+            "tag": "MBB",
+            "patterns": [
+                "MBB",
+                "Ngân hàng Thương mại Cổ phần Quân đội ",
+                "MB"
+            ],
+            "responses": [
+                "MBB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại Cổ phần Quân đội "
+            ]
+        },
+        {
+            "tag": "MCG",
+            "patterns": [
+                "MCG",
+                "Công ty Cổ phần Cơ điện và Xây dựng Việt Nam ",
+                "MECO JSC"
+            ],
+            "responses": [
+                "MCG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cơ điện và Xây dựng Việt Nam "
+            ]
+        },
+        {
+            "tag": "MCP",
+            "patterns": [
+                "MCP",
+                "Công ty cổ phần In và Bao bì Mỹ Châu ",
+                "MCP "
+            ],
+            "responses": [
+                "MCP"
+            ],
+            "name_company": [
+                "Công ty cổ phần In và Bao bì Mỹ Châu "
+            ]
+        },
+        {
+            "tag": "MDG",
+            "patterns": [
+                "MDG",
+                "Công ty Cổ phần miền Đông ",
+                "MDC"
+            ],
+            "responses": [
+                "MDG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần miền Đông "
+            ]
+        },
+        {
+            "tag": "MHC",
+            "patterns": [
+                "MHC",
+                "Công ty Cổ phần MHC ",
+                "Marina Holdings"
+            ],
+            "responses": [
+                "MHC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần MHC "
+            ]
+        },
+        {
+            "tag": "MIG",
+            "patterns": [
+                "MIG",
+                "Tổng Công ty cổ phần Bảo hiểm Quân đội ",
+                "MIC"
+            ],
+            "responses": [
+                "MIG"
+            ],
+            "name_company": [
+                "Tổng Công ty cổ phần Bảo hiểm Quân đội "
+            ]
+        },
+        {
+            "tag": "MSB",
+            "patterns": [
+                "MSB",
+                "Ngân hàng Thương mại cổ phần Hàng hải Việt Nam ",
+                "MSB"
+            ],
+            "responses": [
+                "MSB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại cổ phần Hàng hải Việt Nam "
+            ]
+        },
+        {
+            "tag": "MSH",
+            "patterns": [
+                "MSH",
+                "Công ty cổ phần May Sông Hồng ",
+                "SH. Garny"
+            ],
+            "responses": [
+                "MSH"
+            ],
+            "name_company": [
+                "Công ty cổ phần May Sông Hồng "
+            ]
+        },
+        {
+            "tag": "MSN",
+            "patterns": [
+                "MSN",
+                "Công ty Cổ phần Tập đoàn MaSan ",
+                "Masan Group"
+            ],
+            "responses": [
+                "MSN"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn MaSan "
+            ]
+        },
+        {
+            "tag": "MWG",
+            "patterns": [
+                "MWG",
+                "Công ty cổ phần Đầu tư Thế giới Di động ",
+                "MWI CORP"
+            ],
+            "responses": [
+                "MWG"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư Thế giới Di động "
+            ]
+        },
+        {
+            "tag": "NAF",
+            "patterns": [
+                "NAF",
+                "Công ty Cổ phần Nafoods Group  ",
+                "NAFoods Group"
+            ],
+            "responses": [
+                "NAF"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nafoods Group  "
+            ]
+        },
+        {
+            "tag": "NAV",
+            "patterns": [
+                "NAV",
+                "Công ty Cổ phần Nam Việt ",
+                "NAVIFICO "
+            ],
+            "responses": [
+                "NAV"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nam Việt "
+            ]
+        },
+        {
+            "tag": "NBB",
+            "patterns": [
+                "NBB",
+                "Công ty Cổ phần Đầu tư Năm Bảy Bảy ",
+                "NBB Corp"
+            ],
+            "responses": [
+                "NBB"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Năm Bảy Bảy "
+            ]
+        },
+        {
+            "tag": "NCT",
+            "patterns": [
+                "NCT",
+                "Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài ",
+                "NCTS"
+            ],
+            "responses": [
+                "NCT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài "
+            ]
+        },
+        {
+            "tag": "NHA",
+            "patterns": [
+                "NHA",
+                "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội ",
+                "Ha Noi South Corporation"
+            ],
+            "responses": [
+                "NHA"
+            ],
+            "name_company": [
+                "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị Nam Hà Nội "
+            ]
+        },
+        {
+            "tag": "NHH",
+            "patterns": [
+                "NHH",
+                "Công ty Cổ phần Nhựa Hà Nội ",
+                "HPCS.,JSC"
+            ],
+            "responses": [
+                "NHH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nhựa Hà Nội "
+            ]
+        },
+        {
+            "tag": "NKG",
+            "patterns": [
+                "NKG",
+                "Công ty Cổ phần Thép Nam Kim ",
+                "Nakisco"
+            ],
+            "responses": [
+                "NKG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thép Nam Kim "
+            ]
+        },
+        {
+            "tag": "NLG",
+            "patterns": [
+                "NLG",
+                "Công ty cổ phần Đầu tư Nam Long ",
+                "NLG"
+            ],
+            "responses": [
+                "NLG"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư Nam Long "
+            ]
+        },
+        {
+            "tag": "NNC",
+            "patterns": [
+                "NNC",
+                "Công ty Cổ phần Đá Núi Nhỏ ",
+                "NNC"
+            ],
+            "responses": [
+                "NNC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đá Núi Nhỏ "
+            ]
+        },
+        {
+            "tag": "NSC",
+            "patterns": [
+                "NSC",
+                "Công ty cổ phần Tập đoàn Giống cây trồng Việt Nam ",
+                "VINASEED"
+            ],
+            "responses": [
+                "NSC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn Giống cây trồng Việt Nam "
+            ]
+        },
+        {
+            "tag": "NT2",
+            "patterns": [
+                "NT2",
+                "Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2 ",
+                "PV Power NT2"
+            ],
+            "responses": [
+                "NT2"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2 "
+            ]
+        },
+        {
+            "tag": "NTL",
+            "patterns": [
+                "NTL",
+                "Công ty Cổ phần Phát triển Đô thị Từ Liêm  ",
+                "LIDECO"
+            ],
+            "responses": [
+                "NTL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Phát triển Đô thị Từ Liêm  "
+            ]
+        },
+        {
+            "tag": "NVL",
+            "patterns": [
+                "NVL",
+                "Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va ",
+                "Novaland Group"
+            ],
+            "responses": [
+                "NVL"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn Đầu tư Địa ốc No Va "
+            ]
+        },
+        {
+            "tag": "NVT",
+            "patterns": [
+                "NVT",
+                "Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay ",
+                "Ninh Van Bay"
+            ],
+            "responses": [
+                "NVT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay "
+            ]
+        },
+        {
+            "tag": "OCB",
+            "patterns": [
+                "OCB",
+                "Ngân hàng Thương mại cổ phần Phương Đông ",
+                "Orient Commercal Joint Stock Bank"
+            ],
+            "responses": [
+                "OCB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại cổ phần Phương Đông "
+            ]
+        },
+        {
+            "tag": "OGC",
+            "patterns": [
+                "OGC",
+                "Công ty Cổ phần Tập đoàn Đại Dương "
+
+            ],
+            "responses": [
+                "OGC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Đại Dương "
+            ]
+        },
+        {
+            "tag": "OPC",
+            "patterns": [
+                "OPC",
+                "Công ty cổ phần Dược phẩm OPC ",
+                "OPC"
+            ],
+            "responses": [
+                "OPC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Dược phẩm OPC "
+            ]
+        },
+        {
+            "tag": "PAC",
+            "patterns": [
+                "PAC",
+                "Công ty Cổ phần Pin Ắc quy Miền Nam  ",
+                "PINACO "
+            ],
+            "responses": [
+                "PAC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Pin Ắc quy Miền Nam  "
+            ]
+        },
+        {
+            "tag": "PAN",
+            "patterns": [
+                "PAN",
+                "Công ty Cổ phần Tập đoàn PAN ",
+                "The PAN Group"
+            ],
+            "responses": [
+                "PAN"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn PAN "
+            ]
+        },
+        {
+            "tag": "PC1",
+            "patterns": [
+                "PC1",
+                "Công ty cổ phần Xây lắp điện 1 ",
+                "PCC1"
+            ],
+            "responses": [
+                "PC1"
+            ],
+            "name_company": [
+                "Công ty cổ phần Xây lắp điện 1 "
+            ]
+        },
+        {
+            "tag": "PDN",
+            "patterns": [
+                "PDN",
+                "Công ty Cổ phần Cảng Đồng Nai ",
+                "Dong Nai Port"
+            ],
+            "responses": [
+                "PDN"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cảng Đồng Nai "
+            ]
+        },
+        {
+            "tag": "PDR",
+            "patterns": [
+                "PDR",
+                "Công ty cổ phần Phát triển Bất động sản Phát Đạt "
+
+            ],
+            "responses": [
+                "PDR"
+            ],
+            "name_company": [
+                "Công ty cổ phần Phát triển Bất động sản Phát Đạt "
+            ]
+        },
+        {
+            "tag": "PET",
+            "patterns": [
+                "PET",
+                "Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí ",
+                "PETROSETCO "
+            ],
+            "responses": [
+                "PET"
+            ],
+            "name_company": [
+                "Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí "
+            ]
+        },
+        {
+            "tag": "PGC",
+            "patterns": [
+                "PGC",
+                "Tổng Công ty Gas Petrolimex-CTCP ",
+                "PGC "
+            ],
+            "responses": [
+                "PGC"
+            ],
+            "name_company": [
+                "Tổng Công ty Gas Petrolimex-CTCP "
+            ]
+        },
+        {
+            "tag": "PGD",
+            "patterns": [
+                "PGD",
+                "Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam ",
+                "PV GAS D JSC"
+            ],
+            "responses": [
+                "PGD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Phân phối Khí thấp áp Dầu khí Việt Nam "
+            ]
+        },
+        {
+            "tag": "PGI",
+            "patterns": [
+                "PGI",
+                "Tổng Công ty cổ phần Bảo hiểm Petrolimex ",
+                "PJICO"
+            ],
+            "responses": [
+                "PGI"
+            ],
+            "name_company": [
+                "Tổng Công ty cổ phần Bảo hiểm Petrolimex "
+            ]
+        },
+        {
+            "tag": "PHC",
+            "patterns": [
+                "PHC",
+                "Công ty cổ phần Xây dựng Phục Hưng Holdings ",
+                "Phuc Hung Holdings.,JSC"
+            ],
+            "responses": [
+                "PHC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Xây dựng Phục Hưng Holdings "
+            ]
+        },
+        {
+            "tag": "PHR",
+            "patterns": [
+                "PHR",
+                "Công ty cổ phần Cao su Phước Hòa ",
+                "PHURUCO"
+            ],
+            "responses": [
+                "PHR"
+            ],
+            "name_company": [
+                "Công ty cổ phần Cao su Phước Hòa "
+            ]
+        },
+        {
+            "tag": "PIT",
+            "patterns": [
+                "PIT",
+                "Công ty Cổ phần Xuất nhập khẩu Petrolimex ",
+                "PITCO "
+            ],
+            "responses": [
+                "PIT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xuất nhập khẩu Petrolimex "
+            ]
+        },
+        {
+            "tag": "PJT",
+            "patterns": [
+                "PJT",
+                "Công ty Cổ phần Vận tải Xăng dầu Đường thủy Petrolimex ",
+                "PJTACO "
+            ],
+            "responses": [
+                "PJT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vận tải Xăng dầu Đường thủy Petrolimex "
+            ]
+        },
+        {
+            "tag": "PLP",
+            "patterns": [
+                "PLP",
+                "Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê ",
+                "Nhựa Pha Lê"
+            ],
+            "responses": [
+                "PLP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê "
+            ]
+        },
+        {
+            "tag": "PLX",
+            "patterns": [
+                "PLX",
+                "Tập đoàn Xăng dầu Việt Nam ",
+                "Petrolimex"
+            ],
+            "responses": [
+                "PLX"
+            ],
+            "name_company": [
+                "Tập đoàn Xăng dầu Việt Nam "
+            ]
+        },
+        {
+            "tag": "PME",
+            "patterns": [
+                "PME",
+                "Công ty Cổ phần Pymepharco ",
+                "PMP LABS"
+            ],
+            "responses": [
+                "PME"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Pymepharco "
+            ]
+        },
+        {
+            "tag": "PMG",
+            "patterns": [
+                "PMG",
+                "Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung ",
+                "PETRO MIEN TRUNG CO.,JSC"
+            ],
+            "responses": [
+                "PMG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung "
+            ]
+        },
+        {
+            "tag": "PNC",
+            "patterns": [
+                "PNC",
+                "Công ty Cổ phần Văn hóa Phương Nam  ",
+                "PNC "
+            ],
+            "responses": [
+                "PNC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Văn hóa Phương Nam  "
+            ]
+        },
+        {
+            "tag": "PNJ",
+            "patterns": [
+                "PNJ",
+                "Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận ",
+                "PNJ"
+            ],
+            "responses": [
+                "PNJ"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận "
+            ]
+        },
+        {
+            "tag": "POM",
+            "patterns": [
+                "POM",
+                "Công ty Cổ phần Thép Pomina ",
+                "CÔNG TY THÉP POMINA"
+            ],
+            "responses": [
+                "POM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thép Pomina "
+            ]
+        },
+        {
+            "tag": "POW",
+            "patterns": [
+                "POW",
+                "Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP ",
+                "PV Power"
+            ],
+            "responses": [
+                "POW"
+            ],
+            "name_company": [
+                "Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP "
+            ]
+        },
+        {
+            "tag": "PPC",
+            "patterns": [
+                "PPC",
+                "Công ty Cổ phần Nhiệt điện Phả Lại  ",
+                "PLPC"
+            ],
+            "responses": [
+                "PPC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nhiệt điện Phả Lại  "
+            ]
+        },
+        {
+            "tag": "PSH",
+            "patterns": [
+                "PSH",
+                "CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu ",
+                "NSHPETRO"
+            ],
+            "responses": [
+                "PSH"
+            ],
+            "name_company": [
+                "CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu "
+            ]
+        },
+        {
+            "tag": "PTB",
+            "patterns": [
+                "PTB",
+                "Công ty Cổ phần Phú Tài ",
+                "PTB"
+            ],
+            "responses": [
+                "PTB"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Phú Tài "
+            ]
+        },
+        {
+            "tag": "PTC",
+            "patterns": [
+                "PTC",
+                "Công ty Cổ phần Đầu tư và Xây dựng Bưu điện ",
+                "PTIC"
+            ],
+            "responses": [
+                "PTC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Xây dựng Bưu điện "
+            ]
+        },
+        {
+            "tag": "PTL",
+            "patterns": [
+                "PTL",
+                "Công ty Cổ phần Đầu tư Hạ tầng và Đô thị Dầu khí ",
+                "PVC - PETROLAND JSC"
+            ],
+            "responses": [
+                "PTL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Hạ tầng và Đô thị Dầu khí "
+            ]
+        },
+        {
+            "tag": "PVD",
+            "patterns": [
+                "PVD",
+                "Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí ",
+                "PV DRILLING "
+            ],
+            "responses": [
+                "PVD"
+            ],
+            "name_company": [
+                "Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí "
+            ]
+        },
+        {
+            "tag": "PVT",
+            "patterns": [
+                "PVT",
+                "Tổng công ty Cổ phần Vận tải Dầu khí ",
+                "PV Trans Corp"
+            ],
+            "responses": [
+                "PVT"
+            ],
+            "name_company": [
+                "Tổng công ty Cổ phần Vận tải Dầu khí "
+            ]
+        },
+        {
+            "tag": "PXI",
+            "patterns": [
+                "PXI",
+                "Công ty Cổ phần Xây dựng công nghiệp và dân dụng Dầu khí ",
+                "PVC-IC"
+            ],
+            "responses": [
+                "PXI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xây dựng công nghiệp và dân dụng Dầu khí "
+            ]
+        },
+        {
+            "tag": "PXS",
+            "patterns": [
+                "PXS",
+                "Công ty Cổ phần Kết cấu Kim loại và Lắp máy Dầu khí ",
+                "PVC-MS"
+            ],
+            "responses": [
+                "PXS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Kết cấu Kim loại và Lắp máy Dầu khí "
+            ]
+        },
+        {
+            "tag": "PXT",
+            "patterns": [
+                "PXT",
+                "Công ty Cổ phần Xây lắp Đường ống Bể chứa Dầu khí ",
+                "PVC – PT"
+            ],
+            "responses": [
+                "PXT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xây lắp Đường ống Bể chứa Dầu khí "
+            ]
+        },
+        {
+            "tag": "QBS",
+            "patterns": [
+                "QBS",
+                "Công ty Cổ phần Xuất nhập khẩu Quảng Bình ",
+                "QUANG BINH JSC"
+            ],
+            "responses": [
+                "QBS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xuất nhập khẩu Quảng Bình "
+            ]
+        },
+        {
+            "tag": "QCG",
+            "patterns": [
+                "QCG",
+                "Công ty Cổ phần Quốc Cường Gia Lai ",
+                "QCGL"
+            ],
+            "responses": [
+                "QCG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Quốc Cường Gia Lai "
+            ]
+        },
+        {
+            "tag": "RAL",
+            "patterns": [
+                "RAL",
+                "Công ty Cổ phần Bóng đèn Phích nước Rạng Đông ",
+                "RALACO "
+            ],
+            "responses": [
+                "RAL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bóng đèn Phích nước Rạng Đông "
+            ]
+        },
+        {
+            "tag": "RDP",
+            "patterns": [
+                "RDP",
+                "Công ty Cổ phần Rạng Đông Holding ",
+                "RDP JSC"
+            ],
+            "responses": [
+                "RDP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Rạng Đông Holding "
+            ]
+        },
+        {
+            "tag": "REE",
+            "patterns": [
+                "REE",
+                "Công ty Cổ phần Cơ điện lạnh ",
+                "REE Corp  "
+            ],
+            "responses": [
+                "REE"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cơ điện lạnh "
+            ]
+        },
+        {
+            "tag": "RIC",
+            "patterns": [
+                "RIC",
+                "Công ty Cổ phần Quốc tế Hoàng Gia ",
+                "Royal International Corp "
+            ],
+            "responses": [
+                "RIC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Quốc tế Hoàng Gia "
+            ]
+        },
+        {
+            "tag": "ROS",
+            "patterns": [
+                "ROS",
+                "Công ty cổ phần Xây dựng FLC Faros ",
+                "FLC FAROS.,JSC"
+            ],
+            "responses": [
+                "ROS"
+            ],
+            "name_company": [
+                "Công ty cổ phần Xây dựng FLC Faros "
+            ]
+        },
+        {
+            "tag": "S4A",
+            "patterns": [
+                "S4A",
+                "Công ty Cổ phần Thủy điện Sê San 4A ",
+                "SHJC"
+            ],
+            "responses": [
+                "S4A"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thủy điện Sê San 4A "
+            ]
+        },
+        {
+            "tag": "SAB",
+            "patterns": [
+                "SAB",
+                "Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn ",
+                "SABECO"
+            ],
+            "responses": [
+                "SAB"
+            ],
+            "name_company": [
+                "Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn "
+            ]
+        },
+        {
+            "tag": "SAM",
+            "patterns": [
+                "SAM",
+                "Công ty Cổ phần SAM Holdings ",
+                "SACOM "
+            ],
+            "responses": [
+                "SAM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần SAM Holdings "
+            ]
+        },
+        {
+            "tag": "SAV",
+            "patterns": [
+                "SAV",
+                "Công ty Cổ phần Hợp tác kinh tế và Xuất nhập khẩu SAVIMEX ",
+                "SAVIMEX "
+            ],
+            "responses": [
+                "SAV"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Hợp tác kinh tế và Xuất nhập khẩu SAVIMEX "
+            ]
+        },
+        {
+            "tag": "SBA",
+            "patterns": [
+                "SBA",
+                "Công ty Cổ phần Sông Ba ",
+                "SBA"
+            ],
+            "responses": [
+                "SBA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Sông Ba "
+            ]
+        },
+        {
+            "tag": "SBT",
+            "patterns": [
+                "SBT",
+                "Công ty cổ phần Thành Thành Công - Biên Hòa ",
+                "TTC- BH"
+            ],
+            "responses": [
+                "SBT"
+            ],
+            "name_company": [
+                "Công ty cổ phần Thành Thành Công - Biên Hòa "
+            ]
+        },
+        {
+            "tag": "SBV",
+            "patterns": [
+                "SBV",
+                "CTCP Siam Brothers Việt Nam ",
+                "SBVN "
+            ],
+            "responses": [
+                "SBV"
+            ],
+            "name_company": [
+                "CTCP Siam Brothers Việt Nam "
+            ]
+        },
+        {
+            "tag": "SC5",
+            "patterns": [
+                "SC5",
+                "Công ty Cổ phần Xây dựng số 5  ",
+                "SC5"
+            ],
+            "responses": [
+                "SC5"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xây dựng số 5  "
+            ]
+        },
+        {
+            "tag": "SCD",
+            "patterns": [
+                "SCD",
+                "Công ty Cổ phần Nước giải khát Chương Dương ",
+                "CDBECO"
+            ],
+            "responses": [
+                "SCD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nước giải khát Chương Dương "
+            ]
+        },
+        {
+            "tag": "SCR",
+            "patterns": [
+                "SCR",
+                "Công ty Cổ phần Địa ốc Sài Gòn Thương Tín ",
+                "Sacomreal"
+            ],
+            "responses": [
+                "SCR"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Địa ốc Sài Gòn Thương Tín "
+            ]
+        },
+        {
+            "tag": "SCS",
+            "patterns": [
+                "SCS",
+                "Công ty cổ phần Dịch vụ Hàng hóa Sài Gòn ",
+                "SCSC"
+            ],
+            "responses": [
+                "SCS"
+            ],
+            "name_company": [
+                "Công ty cổ phần Dịch vụ Hàng hóa Sài Gòn "
+            ]
+        },
+        {
+            "tag": "SFC",
+            "patterns": [
+                "SFC",
+                "Công ty Cổ phần Nhiên liệu Sài Gòn ",
+                "SFC "
+            ],
+            "responses": [
+                "SFC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nhiên liệu Sài Gòn "
+            ]
+        },
+        {
+            "tag": "SFG",
+            "patterns": [
+                "SFG",
+                "Công ty Cổ phần Phân bón Miền Nam ",
+                "SFJC"
+            ],
+            "responses": [
+                "SFG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Phân bón Miền Nam "
+            ]
+        },
+        {
+            "tag": "SFI",
+            "patterns": [
+                "SFI",
+                "Công ty Cổ phần Đại lý Vận tải SAFI ",
+                "SAFI"
+            ],
+            "responses": [
+                "SFI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đại lý Vận tải SAFI "
+            ]
+        },
+        {
+            "tag": "SGN",
+            "patterns": [
+                "SGN",
+                "Công ty cổ phần Phục vụ Mặt đất Sài Gòn  ",
+                "SAGS"
+            ],
+            "responses": [
+                "SGN"
+            ],
+            "name_company": [
+                "Công ty cổ phần Phục vụ Mặt đất Sài Gòn  "
+            ]
+        },
+        {
+            "tag": "SGR",
+            "patterns": [
+                "SGR",
+                "Công ty cổ phần Địa ốc Sài Gòn ",
+                "SAIGONRES"
+            ],
+            "responses": [
+                "SGR"
+            ],
+            "name_company": [
+                "Công ty cổ phần Địa ốc Sài Gòn "
+            ]
+        },
+        {
+            "tag": "SGT",
+            "patterns": [
+                "SGT",
+                "Công ty Cổ phần Công nghệ Viễn thông Sài Gòn ",
+                "SAIGONTEL"
+            ],
+            "responses": [
+                "SGT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Công nghệ Viễn thông Sài Gòn "
+            ]
+        },
+        {
+            "tag": "SHA",
+            "patterns": [
+                "SHA",
+                "Công ty Cổ phần Sơn Hà Sài Gòn ",
+                "SON HA SAI GON JSC"
+            ],
+            "responses": [
+                "SHA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Sơn Hà Sài Gòn "
+            ]
+        },
+        {
+            "tag": "SHI",
+            "patterns": [
+                "SHI",
+                "Công ty cổ phần Quốc tế Sơn Hà ",
+                "SONHA.,CORP"
+            ],
+            "responses": [
+                "SHI"
+            ],
+            "name_company": [
+                "Công ty cổ phần Quốc tế Sơn Hà "
+            ]
+        },
+        {
+            "tag": "SHP",
+            "patterns": [
+                "SHP",
+                "Công ty cổ phần Thủy điện Miền Nam ",
+                "SHP"
+            ],
+            "responses": [
+                "SHP"
+            ],
+            "name_company": [
+                "Công ty cổ phần Thủy điện Miền Nam "
+            ]
+        },
+        {
+            "tag": "SII",
+            "patterns": [
+                "SII",
+                "Công ty cổ phần Hạ tầng nước Sài Gòn ",
+                "SII JSC"
+            ],
+            "responses": [
+                "SII"
+            ],
+            "name_company": [
+                "Công ty cổ phần Hạ tầng nước Sài Gòn "
+            ]
+        },
+        {
+            "tag": "SJD",
+            "patterns": [
+                "SJD",
+                "Công ty Cổ phần Thủy điện Cần Đơn ",
+                "CAN DON HSC "
+            ],
+            "responses": [
+                "SJD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thủy điện Cần Đơn "
+            ]
+        },
+        {
+            "tag": "SJF",
+            "patterns": [
+                "SJF",
+                "CTCP Đầu tư Sao Thái Dương ",
+                "Sunstar Japan Foods JSC"
+            ],
+            "responses": [
+                "SJF"
+            ],
+            "name_company": [
+                "CTCP Đầu tư Sao Thái Dương "
+            ]
+        },
+        {
+            "tag": "SJS",
+            "patterns": [
+                "SJS",
+                "Công ty Cổ phần Đầu tư Phát triển Đô thị và Khu Công nghiệp Sông Đà ",
+                "SUDICO "
+            ],
+            "responses": [
+                "SJS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Phát triển Đô thị và Khu Công nghiệp Sông Đà "
+            ]
+        },
+        {
+            "tag": "SKG",
+            "patterns": [
+                "SKG",
+                "Công ty Cổ phần Tàu cao tốc Superdong – Kiên Giang ",
+                "Superdong FF-(KG"
+            ],
+            "responses": [
+                "SKG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tàu cao tốc Superdong – Kiên Giang "
+            ]
+        },
+        {
+            "tag": "SMA",
+            "patterns": [
+                "SMA",
+                "Công ty Cổ phần Thiết bị Phụ tùng Sài Gòn ",
+                "SAIGON MACHINCO"
+            ],
+            "responses": [
+                "SMA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thiết bị Phụ tùng Sài Gòn "
+            ]
+        },
+        {
+            "tag": "SMB",
+            "patterns": [
+                "SMB",
+                "Công ty Cổ phần Bia Sài Gòn - Miền Trung ",
+                "SMB"
+            ],
+            "responses": [
+                "SMB"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bia Sài Gòn - Miền Trung "
+            ]
+        },
+        {
+            "tag": "SMC",
+            "patterns": [
+                "SMC",
+                "Công ty Cổ phần Ðầu tư Thương mại SMC ",
+                "SMC "
+            ],
+            "responses": [
+                "SMC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Ðầu tư Thương mại SMC "
+            ]
+        },
+        {
+            "tag": "SPM",
+            "patterns": [
+                "SPM",
+                "Công ty Cổ phần S.P.M ",
+                "S.P.M CORP"
+            ],
+            "responses": [
+                "SPM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần S.P.M "
+            ]
+        },
+        {
+            "tag": "SRC",
+            "patterns": [
+                "SRC",
+                "Công ty Cổ phần Cao Su Sao Vàng ",
+                "SRC"
+            ],
+            "responses": [
+                "SRC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cao Su Sao Vàng "
+            ]
+        },
+        {
+            "tag": "SRF",
+            "patterns": [
+                "SRF",
+                "Công ty Cổ phần Kỹ Nghệ Lạnh ",
+                "SEAREFICO"
+            ],
+            "responses": [
+                "SRF"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Kỹ Nghệ Lạnh "
+            ]
+        },
+        {
+            "tag": "SSC",
+            "patterns": [
+                "SSC",
+                "Công ty Cổ phần Giống cây trồng Miền Nam  ",
+                "SSC"
+            ],
+            "responses": [
+                "SSC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Giống cây trồng Miền Nam  "
+            ]
+        },
+        {
+            "tag": "SSI",
+            "patterns": [
+                "SSI",
+                "Công ty cổ phần Chứng khoán SSI ",
+                "SSI"
+            ],
+            "responses": [
+                "SSI"
+            ],
+            "name_company": [
+                "Công ty cổ phần Chứng khoán SSI "
+            ]
+        },
+        {
+            "tag": "ST8",
+            "patterns": [
+                "ST8",
+                "Công ty Cổ phần Siêu Thanh  ",
+                "SJC "
+            ],
+            "responses": [
+                "ST8"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Siêu Thanh  "
+            ]
+        },
+        {
+            "tag": "STB",
+            "patterns": [
+                "STB",
+                "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín ",
+                "SACOMBANK"
+            ],
+            "responses": [
+                "STB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín "
+            ]
+        },
+        {
+            "tag": "STG",
+            "patterns": [
+                "STG",
+                "Công ty Cổ phần Kho vận Miền Nam ",
+                "Sotrans"
+            ],
+            "responses": [
+                "STG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Kho vận Miền Nam "
+            ]
+        },
+        {
+            "tag": "STK",
+            "patterns": [
+                "STK",
+                "Công ty cổ phần Sợi Thế Kỷ "
+
+            ],
+            "responses": [
+                "STK"
+            ],
+            "name_company": [
+                "Công ty cổ phần Sợi Thế Kỷ "
+            ]
+        },
+        {
+            "tag": "SVC",
+            "patterns": [
+                "SVC",
+                "Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn ",
+                "SAVICO"
+            ],
+            "responses": [
+                "SVC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn "
+            ]
+        },
+        {
+            "tag": "SVI",
+            "patterns": [
+                "SVI",
+                "Công ty Cổ phần Bao bì Biên Hòa ",
+                "SOVI"
+            ],
+            "responses": [
+                "SVI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bao bì Biên Hòa "
+            ]
+        },
+        {
+            "tag": "SVT",
+            "patterns": [
+                "SVT",
+                "Công ty Cổ phần Công nghệ Sài Gòn Viễn Đông ",
+                "Savitech JSC"
+            ],
+            "responses": [
+                "SVT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Công nghệ Sài Gòn Viễn Đông "
+            ]
+        },
+        {
+            "tag": "SZC",
+            "patterns": [
+                "SZC",
+                "Công ty cổ phần Sonadezi Châu Đức ",
+                "SZC"
+            ],
+            "responses": [
+                "SZC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Sonadezi Châu Đức "
+            ]
+        },
+        {
+            "tag": "SZL",
+            "patterns": [
+                "SZL",
+                "Công ty cổ phần Sonadezi Long Thành ",
+                "SZL"
+            ],
+            "responses": [
+                "SZL"
+            ],
+            "name_company": [
+                "Công ty cổ phần Sonadezi Long Thành "
+            ]
+        },
+        {
+            "tag": "TAC",
+            "patterns": [
+                "TAC",
+                "Công ty Cổ phần Dầu Thực vật Tường An ",
+                "Dầu Tường An "
+            ],
+            "responses": [
+                "TAC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dầu Thực vật Tường An "
+            ]
+        },
+        {
+            "tag": "TBC",
+            "patterns": [
+                "TBC",
+                "Công ty cổ phần Thủy điện Thác Bà ",
+                "TBHPC"
+            ],
+            "responses": [
+                "TBC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Thủy điện Thác Bà "
+            ]
+        },
+        {
+            "tag": "TCB",
+            "patterns": [
+                "TCB",
+                "Ngân hàng TMCP Kỹ Thương Việt Nam ",
+                "Techcombank"
+            ],
+            "responses": [
+                "TCB"
+            ],
+            "name_company": [
+                "Ngân hàng TMCP Kỹ Thương Việt Nam "
+            ]
+        },
+        {
+            "tag": "TCD",
+            "patterns": [
+                "TCD",
+                "Công ty Cổ phần Đầu tư Phát triển Công nghiệp và Vận tải ",
+                "TRACODI"
+            ],
+            "responses": [
+                "TCD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Phát triển Công nghiệp và Vận tải "
+            ]
+        },
+        {
+            "tag": "TCH",
+            "patterns": [
+                "TCH",
+                "Công ty cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy ",
+                "TCH"
+            ],
+            "responses": [
+                "TCH"
+            ],
+            "name_company": [
+                "Công ty cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy "
+            ]
+        },
+        {
+            "tag": "TCL",
+            "patterns": [
+                "TCL",
+                "Công ty Cổ phần Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng ",
+                "TAN CANG LOGISTICS"
+            ],
+            "responses": [
+                "TCL"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng "
+            ]
+        },
+        {
+            "tag": "TCM",
+            "patterns": [
+                "TCM",
+                "Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công ",
+                "TCG"
+            ],
+            "responses": [
+                "TCM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công "
+            ]
+        },
+        {
+            "tag": "TCO",
+            "patterns": [
+                "TCO",
+                "Công ty Cổ phần Vận tải Đa phương thức Duyên Hải ",
+                "TASA DUYENHAI"
+            ],
+            "responses": [
+                "TCO"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vận tải Đa phương thức Duyên Hải "
+            ]
+        },
+        {
+            "tag": "TCR",
+            "patterns": [
+                "TCR",
+                "Công ty Cổ phần Công nghiệp Gốm sứ Taicera ",
+                "TAICERA "
+            ],
+            "responses": [
+                "TCR"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Công nghiệp Gốm sứ Taicera "
+            ]
+        },
+        {
+            "tag": "TCT",
+            "patterns": [
+                "TCT",
+                "Công ty Cổ phần Cáp treo Núi Bà Tây Ninh  ",
+                "CARTOUR "
+            ],
+            "responses": [
+                "TCT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cáp treo Núi Bà Tây Ninh  "
+            ]
+        },
+        {
+            "tag": "TDC",
+            "patterns": [
+                "TDC",
+                "Công ty Cổ phần Kinh doanh và Phát triển Bình Dương ",
+                "TDC"
+            ],
+            "responses": [
+                "TDC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Kinh doanh và Phát triển Bình Dương "
+            ]
+        },
+        {
+            "tag": "TDG",
+            "patterns": [
+                "TDG",
+                "Công ty Cổ phần Dầu khí Thái Dương ",
+                "THAI DUONG PETROL.,JSC"
+            ],
+            "responses": [
+                "TDG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dầu khí Thái Dương "
+            ]
+        },
+        {
+            "tag": "TDH",
+            "patterns": [
+                "TDH",
+                "Công ty Cổ phần Phát triển Nhà Thủ Đức ",
+                "THUDUC HOUSE "
+            ],
+            "responses": [
+                "TDH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Phát triển Nhà Thủ Đức "
+            ]
+        },
+        {
+            "tag": "TDM",
+            "patterns": [
+                "TDM",
+                "Công ty cổ phần Nước Thủ Dầu Một ",
+                "TDMWATER.CO"
+            ],
+            "responses": [
+                "TDM"
+            ],
+            "name_company": [
+                "Công ty cổ phần Nước Thủ Dầu Một "
+            ]
+        },
+        {
+            "tag": "TDP",
+            "patterns": [
+                "TDP",
+                "Công ty cổ phần Thuận Đức ",
+                "Thuận Đức"
+            ],
+            "responses": [
+                "TDP"
+            ],
+            "name_company": [
+                "Công ty cổ phần Thuận Đức "
+            ]
+        },
+        {
+            "tag": "TDW",
+            "patterns": [
+                "TDW",
+                "Công ty Cổ phần Cấp nước Thủ Đức ",
+                "Thu Duc Wasuco.J.S.C"
+            ],
+            "responses": [
+                "TDW"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cấp nước Thủ Đức "
+            ]
+        },
+        {
+            "tag": "TEG",
+            "patterns": [
+                "TEG",
+                "Công ty cổ phần Năng lượng và Bất động sản Trường Thành ",
+                "TECGROUP,. JSC"
+            ],
+            "responses": [
+                "TEG"
+            ],
+            "name_company": [
+                "Công ty cổ phần Năng lượng và Bất động sản Trường Thành "
+            ]
+        },
+        {
+            "tag": "TGG",
+            "patterns": [
+                "TGG",
+                "Công ty Cổ phần Xây dựng và Đầu tư Trường Giang ",
+                "TRUONG GIANG INVESTMENT AND CONSTRUCTION.,JSC"
+            ],
+            "responses": [
+                "TGG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Xây dựng và Đầu tư Trường Giang "
+            ]
+        },
+        {
+            "tag": "THG",
+            "patterns": [
+                "THG",
+                "Công ty Cổ phần Đầu tư và Xây dựng Tiền Giang ",
+                "TICCO"
+            ],
+            "responses": [
+                "THG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Xây dựng Tiền Giang "
+            ]
+        },
+        {
+            "tag": "THI",
+            "patterns": [
+                "THI",
+                "Công ty Cổ phần Thiết Bị Điện ",
+                "THIBIDI"
+            ],
+            "responses": [
+                "THI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thiết Bị Điện "
+            ]
+        },
+        {
+            "tag": "TIP",
+            "patterns": [
+                "TIP",
+                "Công ty cổ phần Phát triển Khu Công nghiệp Tín Nghĩa "
+
+            ],
+            "responses": [
+                "TIP"
+            ],
+            "name_company": [
+                "Công ty cổ phần Phát triển Khu Công nghiệp Tín Nghĩa "
+            ]
+        },
+        {
+            "tag": "TIX",
+            "patterns": [
+                "TIX",
+                "CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình ",
+                "Tanimex J.S.C"
+            ],
+            "responses": [
+                "TIX"
+            ],
+            "name_company": [
+                "CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình "
+            ]
+        },
+        {
+            "tag": "TLD",
+            "patterns": [
+                "TLD",
+                "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Thăng Long ",
+                "THANG LONG DECO., JSC"
+            ],
+            "responses": [
+                "TLD"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Thăng Long "
+            ]
+        },
+        {
+            "tag": "TLG",
+            "patterns": [
+                "TLG",
+                "Công ty Cổ phần Tập đoàn Thiên Long ",
+                "Tập đoàn Thiên Long"
+            ],
+            "responses": [
+                "TLG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Thiên Long "
+            ]
+        },
+        {
+            "tag": "TLH",
+            "patterns": [
+                "TLH",
+                "Công ty Cổ phần Tập đoàn Thép Tiến Lên ",
+                "TLC"
+            ],
+            "responses": [
+                "TLH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Thép Tiến Lên "
+            ]
+        },
+        {
+            "tag": "TMP",
+            "patterns": [
+                "TMP",
+                "Công ty cổ phần Thủy điện Thác Mơ ",
+                "TMHPC"
+            ],
+            "responses": [
+                "TMP"
+            ],
+            "name_company": [
+                "Công ty cổ phần Thủy điện Thác Mơ "
+            ]
+        },
+        {
+            "tag": "TMS",
+            "patterns": [
+                "TMS",
+                "Công ty Cổ phần Transimex ",
+                "Transimex Corporation"
+            ],
+            "responses": [
+                "TMS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Transimex "
+            ]
+        },
+        {
+            "tag": "TMT",
+            "patterns": [
+                "TMT",
+                "Công ty Cổ phần Ô tô TMT ",
+                "TMT MOTORS.,CORP"
+            ],
+            "responses": [
+                "TMT"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Ô tô TMT "
+            ]
+        },
+        {
+            "tag": "TN1",
+            "patterns": [
+                "TN1",
+                "Công ty Cổ phần Thương mại Dịch vụ TNS Holdings ",
+                "CTCP TNS HOLDINGS"
+            ],
+            "responses": [
+                "TN1"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thương mại Dịch vụ TNS Holdings "
+            ]
+        },
+        {
+            "tag": "TNA",
+            "patterns": [
+                "TNA",
+                "Công ty Cổ phần Thương mại Xuất nhập khẩu Thiên Nam  ",
+                "TENIMEX "
+            ],
+            "responses": [
+                "TNA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thương mại Xuất nhập khẩu Thiên Nam  "
+            ]
+        },
+        {
+            "tag": "TNC",
+            "patterns": [
+                "TNC",
+                "Công ty Cổ phần Cao su Thống Nhất ",
+                "TRC"
+            ],
+            "responses": [
+                "TNC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cao su Thống Nhất "
+            ]
+        },
+        {
+            "tag": "TNH",
+            "patterns": [
+                "TNH",
+                "Công ty Cổ phần Bệnh viện Quốc tế Thái Nguyên ",
+                "TNH"
+            ],
+            "responses": [
+                "TNH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bệnh viện Quốc tế Thái Nguyên "
+            ]
+        },
+        {
+            "tag": "TNI",
+            "patterns": [
+                "TNI",
+                "Công ty cổ phần Tập đoàn Thành Nam ",
+                "Thanh Nam Group"
+            ],
+            "responses": [
+                "TNI"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn Thành Nam "
+            ]
+        },
+        {
+            "tag": "TNT",
+            "patterns": [
+                "TNT",
+                "Công ty Cổ phần Tài nguyên"
+
+            ],
+            "responses": [
+                "TNT"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn Thành Nam "
+            ]
+        },
+        {
+            "tag": "TPB",
+            "patterns": [
+                "TPB",
+                "Ngân hàng Thương mại cổ phần Tiên Phong ",
+                "TPBank"
+            ],
+            "responses": [
+                "TPB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại cổ phần Tiên Phong "
+            ]
+        },
+        {
+            "tag": "TPC",
+            "patterns": [
+                "TPC",
+                "Công ty Cổ phần Nhựa Tân Đại Hưng ",
+                "TAN DAI HUNG PLASTIC J.S. CO.,"
+            ],
+            "responses": [
+                "TPC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Nhựa Tân Đại Hưng "
+            ]
+        },
+        {
+            "tag": "TRA",
+            "patterns": [
+                "TRA",
+                "Công ty Cổ phần TRAPHACO ",
+                "TRAPHACO"
+            ],
+            "responses": [
+                "TRA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần TRAPHACO "
+            ]
+        },
+        {
+            "tag": "TRC",
+            "patterns": [
+                "TRC",
+                "Công ty Cổ phần Cao su Tây Ninh ",
+                "TANIRUCO "
+            ],
+            "responses": [
+                "TRC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Cao su Tây Ninh "
+            ]
+        },
+        {
+            "tag": "TS4",
+            "patterns": [
+                "TS4",
+                "Công ty cổ phần Thủy sản số 4 ",
+                "Seapriexco No 4 "
+            ],
+            "responses": [
+                "TS4"
+            ],
+            "name_company": [
+                "Công ty cổ phần Thủy sản số 4 "
+            ]
+        },
+        {
+            "tag": "TSC",
+            "patterns": [
+                "TSC",
+                "Công ty Cổ phần Vật tư kỹ thuật Nông nghiệp Cần Thơ ",
+                "TSC"
+            ],
+            "responses": [
+                "TSC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vật tư kỹ thuật Nông nghiệp Cần Thơ "
+            ]
+        },
+        {
+            "tag": "TTA",
+            "patterns": [
+                "TTA",
+                "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành ",
+                "Truong Thanh Deconin.,JSC"
+            ],
+            "responses": [
+                "TTA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành "
+            ]
+        },
+        {
+            "tag": "TTB",
+            "patterns": [
+                "TTB",
+                "Công ty cổ phần Tập đoàn Tiến Bộ ",
+                "Tien Bo Group"
+            ],
+            "responses": [
+                "TTB"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn Tiến Bộ "
+            ]
+        },
+        {
+            "tag": "TTE",
+            "patterns": [
+                "TTE",
+                "Công ty Cổ phần Đầu tư Năng lượng Trường Thịnh ",
+                "TTE.,JSC"
+            ],
+            "responses": [
+                "TTE"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Năng lượng Trường Thịnh "
+            ]
+        },
+        {
+            "tag": "TTF",
+            "patterns": [
+                "TTF",
+                "Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành ",
+                "TTFC"
+            ],
+            "responses": [
+                "TTF"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành "
+            ]
+        },
+        {
+            "tag": "TV2",
+            "patterns": [
+                "TV2",
+                "Công ty Cổ phần Tư vấn Xây dựng Điện 2 ",
+                "PECC2"
+            ],
+            "responses": [
+                "TV2"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tư vấn Xây dựng Điện 2 "
+            ]
+        },
+        {
+            "tag": "TVB",
+            "patterns": [
+                "TVB",
+                "Công ty cổ phần Chứng khoán Trí Việt ",
+                "TVSC"
+            ],
+            "responses": [
+                "TVB"
+            ],
+            "name_company": [
+                "Công ty cổ phần Chứng khoán Trí Việt "
+            ]
+        },
+        {
+            "tag": "TVS",
+            "patterns": [
+                "TVS",
+                "Công ty Cổ phần Chứng khoán Thiên Việt ",
+                "TVSC.,JSC"
+            ],
+            "responses": [
+                "TVS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chứng khoán Thiên Việt "
+            ]
+        },
+        {
+            "tag": "TVT",
+            "patterns": [
+                "TVT",
+                "Tổng Công ty Việt Thắng - CTCP ",
+                "VICOTEX"
+            ],
+            "responses": [
+                "TVT"
+            ],
+            "name_company": [
+                "Tổng Công ty Việt Thắng - CTCP "
+            ]
+        },
+        {
+            "tag": "TYA",
+            "patterns": [
+                "TYA",
+                "Công ty Cổ phần Dây và Cáp điện Taya Việt Nam  ",
+                "TAYA VIỆT NAM "
+            ],
+            "responses": [
+                "TYA"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dây và Cáp điện Taya Việt Nam  "
+            ]
+        },
+        {
+            "tag": "UDC",
+            "patterns": [
+                "UDC",
+                "Công ty cổ phần Xây dựng và Phát triển Đô thị tỉnh Bà Rịa-Vũng Tàu ",
+                "UDEC"
+            ],
+            "responses": [
+                "UDC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Xây dựng và Phát triển Đô thị tỉnh Bà Rịa-Vũng Tàu "
+            ]
+        },
+        {
+            "tag": "UIC",
+            "patterns": [
+                "UIC",
+                "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị Idico ",
+                "IDICO - UDICO"
+            ],
+            "responses": [
+                "UIC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị Idico "
+            ]
+        },
+        {
+            "tag": "VAF",
+            "patterns": [
+                "VAF",
+                "Công ty cổ phần Phân lân nung chảy Văn Điển ",
+                "VADFCO"
+            ],
+            "responses": [
+                "VAF"
+            ],
+            "name_company": [
+                "Công ty cổ phần Phân lân nung chảy Văn Điển "
+            ]
+        },
+        {
+            "tag": "VCB",
+            "patterns": [
+                "VCB",
+                "Ngân hàng Thương mại cổ phần Ngoại thương Việt Nam ",
+                "VIETCOMBANK"
+            ],
+            "responses": [
+                "VCB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại cổ phần Ngoại thương Việt Nam "
+            ]
+        },
+        {
+            "tag": "VCF",
+            "patterns": [
+                "VCF",
+                "Công ty Cổ phần VinaCafé Biên Hòa ",
+                "VINACAFÉ BH"
+            ],
+            "responses": [
+                "VCF"
+            ],
+            "name_company": [
+                "Công ty Cổ phần VinaCafé Biên Hòa "
+            ]
+        },
+        {
+            "tag": "VCG",
+            "patterns": [
+                "VCG",
+                "Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam ",
+                "VINACONEX JSC"
+            ],
+            "responses": [
+                "VCG"
+            ],
+            "name_company": [
+                "Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam "
+            ]
+        },
+        {
+            "tag": "VCI",
+            "patterns": [
+                "VCI",
+                "Công ty cổ phần Chứng khoán Bản Việt ",
+                "VCSC"
+            ],
+            "responses": [
+                "VCI"
+            ],
+            "name_company": [
+                "Công ty cổ phần Chứng khoán Bản Việt "
+            ]
+        },
+        {
+            "tag": "VDP",
+            "patterns": [
+                "VDP",
+                "Công ty Cổ phần Dược phẩm Trung ương VIDIPHA ",
+                "VIDIPHA."
+            ],
+            "responses": [
+                "VDP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Dược phẩm Trung ương VIDIPHA "
+            ]
+        },
+        {
+            "tag": "VDS",
+            "patterns": [
+                "VDS",
+                "Công ty Cổ phần Chứng khoán Rồng Việt ",
+                "VDSC"
+            ],
+            "responses": [
+                "VDS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Chứng khoán Rồng Việt "
+            ]
+        },
+        {
+            "tag": "VFG",
+            "patterns": [
+                "VFG",
+                "Công ty Cổ phần Khử trùng Việt Nam ",
+                "VFC"
+            ],
+            "responses": [
+                "VFG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Khử trùng Việt Nam "
+            ]
+        },
+        {
+            "tag": "VGC",
+            "patterns": [
+                "VGC",
+                "Tổng Công ty Viglacera - CTCP ",
+                "Viglacera"
+            ],
+            "responses": [
+                "VGC"
+            ],
+            "name_company": [
+                "Tổng Công ty Viglacera - CTCP "
+            ]
+        },
+        {
+            "tag": "VHC",
+            "patterns": [
+                "VHC",
+                "Công ty Cổ phần Vĩnh Hoàn ",
+                "VINHHOAN CORP"
+            ],
+            "responses": [
+                "VHC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vĩnh Hoàn "
+            ]
+        },
+        {
+            "tag": "VHM",
+            "patterns": [
+                "VHM",
+                "Công ty cổ phần Vinhomes ",
+                "Vinhomes"
+            ],
+            "responses": [
+                "VHM"
+            ],
+            "name_company": [
+                "Công ty cổ phần Vinhomes "
+            ]
+        },
+        {
+            "tag": "VIB",
+            "patterns": [
+                "VIB",
+                "Ngân hàng Thương mại cổ phần Quốc tế Việt Nam ",
+                "VIB"
+            ],
+            "responses": [
+                "VIB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại cổ phần Quốc tế Việt Nam "
+            ]
+        },
+        {
+            "tag": "VIC",
+            "patterns": [
+                "VIC",
+                "Tập đoàn Vingroup - Công ty Cổ phần ",
+                "VINGROUP JOINT STOCK COMPANY"
+            ],
+            "responses": [
+                "VIC"
+            ],
+            "name_company": [
+                "Tập đoàn Vingroup - Công ty Cổ phần "
+            ]
+        },
+        {
+            "tag": "VID",
+            "patterns": [
+                "VID",
+                "Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông ",
+                "VIDON "
+            ],
+            "responses": [
+                "VID"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông "
+            ]
+        },
+        {
+            "tag": "VIP",
+            "patterns": [
+                "VIP",
+                "Công ty Cổ phần Vận tải Xăng dầu VIPCO ",
+                "VIPCO "
+            ],
+            "responses": [
+                "VIP"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vận tải Xăng dầu VIPCO "
+            ]
+        },
+        {
+            "tag": "VIS",
+            "patterns": [
+                "VIS",
+                "Công ty Cổ phần Thép Việt Ý ",
+                "VISCO "
+            ],
+            "responses": [
+                "VIS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thép Việt Ý "
+            ]
+        },
+        {
+            "tag": "VIX",
+            "patterns": [
+                "VIX",
+                "Công ty cổ phần Chứng khoán VIX ",
+                "VIX"
+            ],
+            "responses": [
+                "VIX"
+            ],
+            "name_company": [
+                "Công ty cổ phần Chứng khoán VIX "
+            ]
+        },
+        {
+            "tag": "VJC",
+            "patterns": [
+                "VJC",
+                "Công ty cổ phần Hàng không VietJet  ",
+                "VietJet Air"
+            ],
+            "responses": [
+                "VJC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Hàng không VietJet  "
+            ]
+        },
+        {
+            "tag": "VMD",
+            "patterns": [
+                "VMD",
+                "Công ty cổ phần Y Dược phẩm Vimedimex ",
+                "Vimedimex"
+            ],
+            "responses": [
+                "VMD"
+            ],
+            "name_company": [
+                "Công ty cổ phần Y Dược phẩm Vimedimex "
+            ]
+        },
+        {
+            "tag": "VND",
+            "patterns": [
+                "VND",
+                "Công ty cổ phần Chứng khoán VNDIRECT ",
+                "VNDIRECT"
+            ],
+            "responses": [
+                "VND"
+            ],
+            "name_company": [
+                "Công ty cổ phần Chứng khoán VNDIRECT "
+            ]
+        },
+        {
+            "tag": "VNE",
+            "patterns": [
+                "VNE",
+                "Tổng công ty Cổ phần Xây dựng điện Việt Nam  ",
+                "VNECO "
+            ],
+            "responses": [
+                "VNE"
+            ],
+            "name_company": [
+                "Tổng công ty Cổ phần Xây dựng điện Việt Nam  "
+            ]
+        },
+        {
+            "tag": "VNG",
+            "patterns": [
+                "VNG",
+                "Công ty Cổ phần Du lịch Thành Thành Công ",
+                "Thanh Thanh Cong Tourist Joint Stock Company"
+            ],
+            "responses": [
+                "VNG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Du lịch Thành Thành Công "
+            ]
+        },
+        {
+            "tag": "VNL",
+            "patterns": [
+                "VNL",
+                "Công ty cổ phần Logistics Vinalink ",
+                "VINALINK"
+            ],
+            "responses": [
+                "VNL"
+            ],
+            "name_company": [
+                "Công ty cổ phần Logistics Vinalink "
+            ]
+        },
+        {
+            "tag": "VNM",
+            "patterns": [
+                "VNM",
+                "Công ty Cổ phần Sữa Việt Nam  ",
+                "VINAMILK "
+            ],
+            "responses": [
+                "VNM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Sữa Việt Nam  "
+            ]
+        },
+        {
+            "tag": "VNS",
+            "patterns": [
+                "VNS",
+                "Công ty Cổ phần Ánh Dương Việt Nam  ",
+                "Vinasun corp."
+            ],
+            "responses": [
+                "VNS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Ánh Dương Việt Nam  "
+            ]
+        },
+        {
+            "tag": "VOS",
+            "patterns": [
+                "VOS",
+                "Công ty Cổ phần Vận tải biển Việt Nam ",
+                "VOSCO"
+            ],
+            "responses": [
+                "VOS"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vận tải biển Việt Nam "
+            ]
+        },
+        {
+            "tag": "VPB",
+            "patterns": [
+                "VPB",
+                "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng ",
+                "VPBank"
+            ],
+            "responses": [
+                "VPB"
+            ],
+            "name_company": [
+                "Ngân hàng Thương mại Cổ phần Việt Nam Thịnh Vượng "
+            ]
+        },
+        {
+            "tag": "VPD",
+            "patterns": [
+                "VPD",
+                "Công ty cổ phần Phát triển Điện lực Việt Nam ",
+                "VNPD"
+            ],
+            "responses": [
+                "VPD"
+            ],
+            "name_company": [
+                "Công ty cổ phần Phát triển Điện lực Việt Nam "
+            ]
+        },
+        {
+            "tag": "VPG",
+            "patterns": [
+                "VPG",
+                "Công ty Cổ phần Đầu tư Thương mại Xuất nhập khẩu Việt Phát"
+
+            ],
+            "responses": [
+                "VPG"
+            ],
+            "name_company": [
+                "Công ty cổ phần Phát triển Điện lực Việt Nam "
+            ]
+        },
+        {
+            "tag": "VPH",
+            "patterns": [
+                "VPH",
+                "Công ty Cổ phần Vạn Phát Hưng ",
+                "VPH Corp"
+            ],
+            "responses": [
+                "VPH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vạn Phát Hưng "
+            ]
+        },
+        {
+            "tag": "VPI",
+            "patterns": [
+                "VPI",
+                "Công ty Cổ phần Đầu tư Văn Phú - Invest"
+
+            ],
+            "responses": [
+                "VPI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vạn Phát Hưng "
+            ]
+        },
+        {
+            "tag": "VPS",
+            "patterns": [
+                "VPS",
+                "CTCP Thuốc sát trùng Việt Nam ",
+                "Vipesco"
+            ],
+            "responses": [
+                "VPS"
+            ],
+            "name_company": [
+                "CTCP Thuốc sát trùng Việt Nam "
+            ]
+        },
+        {
+            "tag": "VRC",
+            "patterns": [
+                "VRC",
+                "Công ty Cổ phần Bất động sản và Đầu tư VRC ",
+                "VRC"
+            ],
+            "responses": [
+                "VRC"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Bất động sản và Đầu tư VRC "
+            ]
+        },
+        {
+            "tag": "VRE",
+            "patterns": [
+                "VRE",
+                "Công ty Cổ phần Vincom Retail  ",
+                "VINCOM RETAIL "
+            ],
+            "responses": [
+                "VRE"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vincom Retail  "
+            ]
+        },
+        {
+            "tag": "VSC",
+            "patterns": [
+                "VSC",
+                "Công ty cổ phần Tập đoàn Container Việt Nam ",
+                "Viconship"
+            ],
+            "responses": [
+                "VSC"
+            ],
+            "name_company": [
+                "Công ty cổ phần Tập đoàn Container Việt Nam "
+            ]
+        },
+        {
+            "tag": "VSH",
+            "patterns": [
+                "VSH",
+                "Công ty Cổ phần Thủy điện Vĩnh Sơn - Sông Hinh ",
+                "VSHPC "
+            ],
+            "responses": [
+                "VSH"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Thủy điện Vĩnh Sơn - Sông Hinh "
+            ]
+        },
+        {
+            "tag": "VSI",
+            "patterns": [
+                "VSI",
+                "Công ty Cổ phần Đầu tư và Xây dựng Cấp thoát nước ",
+                "WASECO."
+            ],
+            "responses": [
+                "VSI"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Đầu tư và Xây dựng Cấp thoát nước "
+            ]
+        },
+        {
+            "tag": "VTB",
+            "patterns": [
+                "VTB",
+                "Công ty Cổ phần Viettronics Tân Bình ",
+                "VTB "
+            ],
+            "responses": [
+                "VTB"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Viettronics Tân Bình "
+            ]
+        },
+        {
+            "tag": "VTO",
+            "patterns": [
+                "VTO",
+                "Công ty Cổ phần Vận tải Xăng dầu VITACO ",
+                "VITACO"
+            ],
+            "responses": [
+                "VTO"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Vận tải Xăng dầu VITACO "
+            ]
+        },
+        {
+            "tag": "YBM",
+            "patterns": [
+                "YBM",
+                "Công ty Cổ phần Khoáng sản Công nghiệp Yên Bái ",
+                "YBM"
+            ],
+            "responses": [
+                "YBM"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Khoáng sản Công nghiệp Yên Bái "
+            ]
+        },
+        {
+            "tag": "YEG",
+            "patterns": [
+                "YEG",
+                "Công ty Cổ phần Tập đoàn Yeah1 ",
+                "YEG"
+            ],
+            "responses": [
+                "YEG"
+            ],
+            "name_company": [
+                "Công ty Cổ phần Tập đoàn Yeah1 "
+            ]
+        }
     ]
 }

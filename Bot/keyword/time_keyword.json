@@ -1,0 +1,60 @@
+{
+    "intents": [{
+            "tag": "today",
+            "patterns": [
+                "today",
+                "hôm nay",
+                "hnay"
+            ],
+            "responses": [
+                "today"
+            ]
+        },
+        {
+            "tag": "yesterday",
+            "patterns": [
+                "yesterday",
+                "hôm qua",
+                "hqua",
+                "h qua"
+            ],
+            "responses": [
+                "yesterday"
+            ]
+        },
+        {
+            "tag": "tomorrow",
+            "patterns": [
+                "tomorrow",
+                "ngày mai",
+                "ng mai",
+                "mai"
+            ],
+            "responses": [
+                "tomorrow"
+            ]
+        },
+        {
+            "tag": "month",
+            "patterns": [
+                "month",
+                "tháng",
+                "monthly",
+                "tháng này"
+            ],
+            "responses": [
+                "month"
+            ]
+        },
+        {
+            "tag": "year",
+            "patterns": [
+                "year",
+                "năm"
+            ],
+            "responses": [
+                "year"
+            ]
+        }
+    ]
+}

@@ -6,7 +6,7 @@ import numpy as np
 sys.path.append(r'/ChatBot_Py/Bot')
 sys.path.append(r'/ChatBot_Py/Algorithm')
 # import training_bot
-from chat import bot_message
+from chat import bot_message,catch_stock_keyword,catch_time_keyword
 from MaxFlow import Graph
 
 ###############################

@@ -10,7 +10,7 @@ import sys,time
 
 start_time = time.time()
 
-file_company_name = open(r'/ChatBot_Py/Crawl_data/s.cafef/list_company_name.txt','r+', encoding="utf-8")
+file_company_name = open(r'/ChatBot_Py/Crawl_data/s.cafef/list_company_name.txt','w+', encoding="utf-8")
 list_company_name = file_company_name.read().split('\n')
 URL = 'http://liveboard.cafef.vn/'
 # print(list_stock_code)
@@ -22,7 +22,7 @@ def check_code(label,list):
         
 def crawl_data(URL):
     try:
-        driver = start_chrome(URL,headless=False)
+        driver = start_chrome(URL,headless=True)
         action = ActionChains(driver)
         wait = WebDriverWait(driver, 10)
         wait.until(EC.presence_of_element_located((By.CLASS_NAME, 'fixedHeader')))
