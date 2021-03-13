@@ -6,8 +6,8 @@ from nltk_utils import bag_of_words, tokenize, bag_of_words1
 from flask_socketio import emit
 sys.path.append(r'/ChatBot_Py/Bot/keyword')
 from model import NeuralNet as nnet
-from model_stock_keyword import NeuralNet as nnet_st
-from model_time_keyword import NeuralNet as nnet_t
+from model import NeuralNet_stock as nnet_st
+from model import NeuralNet_time as nnet_t
 # device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 device = torch.device('cpu')
 with open(r'/ChatBot_Py/Bot/intents.json', 'r',encoding='utf8') as json_data:

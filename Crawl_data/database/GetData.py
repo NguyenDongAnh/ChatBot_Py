@@ -1,9 +1,11 @@
 from db import db, cursor, Error
+import datetime
 try:
-    sql_select_Query = "select * from AAA ORDER BY NGAY DESC LIMIT 7"
+    # sql_select_Query = "select * from AAA ORDER BY NGAY DESC LIMIT 10"
+    sql_select_Query = f"select * from AAA where NGAY between date_sub(now(),INTERVAL 1 WEEK) and now();"
     cursor.execute(sql_select_Query)
     records = cursor.fetchall()
-    print("Total number of rows in Laptop is: ", cursor.rowcount)
+    print("Total number of rows in AAA is: ", cursor.rowcount)
     print("+---------------------------------------------+")
     print("| NGAY        | GIA DIEU CHINH | GIA DONG CUA |")
     for row in records:

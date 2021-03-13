@@ -11,7 +11,7 @@ sys.path.append(r'/ChatBot_Py/Bot')
 sys.path.append(r'/ChatBot_Py/Bot/keyword')
 
 from nltk_utils import bag_of_words, tokenize, stem, no_accent_vietnamese,bag_of_words1
-from model_time_keyword import NeuralNet
+from model import NeuralNet_time
 
 start_time = time.time()
 with open(r'/ChatBot_Py/Bot/keyword/time_keyword.json', 'r',encoding='utf8') as f:
@@ -76,7 +76,6 @@ class ChatDataset(Dataset):
         self.x_data = X_train
         self.y_data = y_train
 
-    # support indexing such that dataset[i] can be used to get i-th sample
     def __getitem__(self, index):
         return self.x_data[index], self.y_data[index]
 
@@ -93,7 +92,7 @@ train_loader = DataLoader(dataset=dataset,
 # device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 device = torch.device('cpu')
 
-model = NeuralNet(input_size, hidden_size, output_size).to(device)
+model = NeuralNet_time(input_size, hidden_size, output_size).to(device)
 
 # Loss and optimizer
 criterion = nn.CrossEntropyLoss()
@@ -107,8 +106,6 @@ for epoch in range(num_epochs):
         
         # Forward pass
         outputs = model(words)
-        # if y would be one-hot, we must apply
-        # labels = torch.max(labels, 1)[1]
         loss = criterion(outputs, labels)
         
         # Backward and optimize

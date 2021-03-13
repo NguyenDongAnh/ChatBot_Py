@@ -11,7 +11,7 @@ sys.path.append(r'/ChatBot_Py/Bot')
 sys.path.append(r'/ChatBot_Py/Bot/keyword')
 
 from nltk_utils import bag_of_words, tokenize, stem, no_accent_vietnamese
-from model_stock_keyword import NeuralNet
+from ..model import NeuralNet_stock
 
 start_time = time.time()
 with open(r'/ChatBot_Py/Bot/keyword/stock_keyword.json', 'r',encoding='utf8') as f:
@@ -20,24 +20,18 @@ with open(r'/ChatBot_Py/Bot/keyword/stock_keyword.json', 'r',encoding='utf8') as
 all_words = []
 tags = []
 xy = []
-# loop through each sentence in our intents patterns
+
 for intent in intents['intents']:
     tag = intent['tag']
-    # add to tag list
     tags.append(tag)
     for pattern in intent['patterns']:
-        # tokenize each word in the sentence
         w = tokenize(no_accent_vietnamese(pattern))
-        # add to our words list
         all_words.extend(w)
-        # add to xy pair
         xy.append((w, tag))
 
-# stem and lower each word
 ignore_words = ['?', '.', '!', "\"", ",",'\'','-','&','(',')','\'\'']
 # all_words = [stem(w) for w in all_words if w not in ignore_words and re.match("^[0-9]{1,2}$|(.*)[.]|^[a-z]{1,2}$",stem(w)) == None]
 all_words = [stem(w) for w in all_words if w not in ignore_words]
-# remove duplicates and sort
 all_words = sorted(set(all_words))
 tags = sorted(set(tags))
 
@@ -93,7 +87,7 @@ train_loader = DataLoader(dataset=dataset,
 # device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 device = torch.device('cpu')
 
-model = NeuralNet(input_size, hidden_size, output_size).to(device)
+model = NeuralNet_stock(input_size, hidden_size, output_size).to(device)
 
 # Loss and optimizer
 criterion = nn.CrossEntropyLoss()
