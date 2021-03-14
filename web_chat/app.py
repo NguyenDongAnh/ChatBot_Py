@@ -1,4 +1,4 @@
-from flask import Flask, render_template
+from flask import Flask, render_template, jsonify
 from flask_socketio import SocketIO, emit
 import socketio
 import sys,json
@@ -9,6 +9,8 @@ sys.path.append(r'/ChatBot_Py/Algorithm')
 from chat import bot_message,catch_stock_keyword,catch_time_keyword
 from MaxFlow import Graph
 
+file_stock_code = open(r'/ChatBot_Py/Crawl_data/s.cafef/list_stock_code.txt','r+')
+list_stock_code = file_stock_code.read().split('\n')
 ###############################
 app = Flask(__name__,static_url_path='',static_folder="/ChatBot_Py/web_chat/static")
 # static_files = {
@@ -30,6 +32,14 @@ socketio = SocketIO(app)
 def chat():
     return render_template('chatmessage.html')
 
+@app.route('/api/chat/<msg>',methods=['GET','POST'])
+def api_chat(msg):
+    print(msg)
+    records= bot_message(msg)
+    return jsonify(records=records)
+@app.route('/api/stockcode',methods=['GET'])
+def api_stockcode():
+    return jsonify(stock_code=list_stock_code)
 ##############################
 
 @socketio.on('my event')
@@ -83,4 +93,4 @@ def input_row(data):
 
 ################################
 if __name__ == '__main__':
-    socketio.run(app,host = "127.0.0.1", port = 3000, debug=True)
+    socketio.run(app,host = "0.0.0.0", port = 4200, debug=True)

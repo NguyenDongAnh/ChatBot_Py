@@ -133,5 +133,3 @@ torch.save(data, FILE)
 
 print(f'training complete. file saved to {FILE}')
 print(time.time()-start_time)
-
-

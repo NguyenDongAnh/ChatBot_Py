@@ -11,7 +11,7 @@ sys.path.append(r'/ChatBot_Py/Bot')
 sys.path.append(r'/ChatBot_Py/Bot/keyword')
 
 from nltk_utils import bag_of_words, tokenize, stem, no_accent_vietnamese
-from ..model import NeuralNet_stock
+from model import NeuralNet_stock
 
 start_time = time.time()
 with open(r'/ChatBot_Py/Bot/keyword/stock_keyword.json', 'r',encoding='utf8') as f:
@@ -130,5 +130,3 @@ torch.save(data, FILE)
 
 print(f'training complete. file saved to {FILE}')
 print(time.time()-start_time)
-
-

@@ -69,7 +69,7 @@ def bag_of_words1(tokenized_sentence, words):
     bog   = [  0 ,    1 ,    0 ,   1 ,    0 ,    0 ,      0]
     """
     # stem each word
-    sentence_words = [(no_accent_vietnamese(word)) for word in tokenized_sentence]
+    sentence_words = [stem(word) for word in tokenized_sentence]
     # initialize bag with 0 for each word
     bag = np.zeros(len(words), dtype=np.float32)
     for idx, w in enumerate(words):

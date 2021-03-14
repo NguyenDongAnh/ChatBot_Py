@@ -7,7 +7,7 @@ import json
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
 
-from nltk_utils import bag_of_words, tokenize, stem, no_accent_vietnamese
+from nltk_utils import bag_of_words, tokenize, stem, no_accent_vietnamese, bag_of_words1
 from model import NeuralNet
 
 start_time = time.time()
@@ -24,7 +24,8 @@ for intent in intents['intents']:
     tags.append(tag)
     for pattern in intent['patterns']:
         # tokenize each word in the sentence
-        w = tokenize(no_accent_vietnamese(pattern))
+        # w = tokenize(no_accent_vietnamese(pattern))
+        w = tokenize(pattern)
         # add to our words list
         all_words.extend(w)
         # add to xy pair
@@ -46,7 +47,8 @@ X_train = []
 y_train = []
 for (pattern_sentence, tag) in xy:
     # X: bag of words for each pattern_sentence
-    bag = bag_of_words(pattern_sentence, all_words)
+    # bag = bag_of_words(pattern_sentence, all_words)
+    bag = bag_of_words1(pattern_sentence, all_words)
     X_train.append(bag)
     # y: PyTorch CrossEntropyLoss needs only class labels, not one-hot
     label = tags.index(tag)
