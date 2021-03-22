@@ -34,9 +34,11 @@ def chat():
 
 @app.route('/api/chat/<msg>',methods=['GET','POST'])
 def api_chat(msg):
-    print(msg)
-    records= bot_message(msg)
-    return jsonify(records=records)
+    # print(msg)
+    records,name_company,message= bot_message(msg)
+    if(records != None):
+        return jsonify(records=records,name_company=name_company,message=message)
+    return jsonify(records=[])
 @app.route('/api/stockcode',methods=['GET'])
 def api_stockcode():
     return jsonify(stock_code=list_stock_code)
@@ -93,4 +95,4 @@ def input_row(data):
 
 ################################
 if __name__ == '__main__':
-    socketio.run(app,host = "0.0.0.0", port = 4200, debug=True)
+    socketio.run(app,host = "0.0.0.0", port = 3200, debug=True)

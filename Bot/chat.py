@@ -7,6 +7,7 @@ from model import NeuralNet as nnet
 import random
 import json
 import torch
+import re
 from nltk_utils import bag_of_words, tokenize, bag_of_words1
 from flask_socketio import emit
 from db import db, cursor, Error
@@ -132,13 +133,14 @@ model_time_keyword.eval()
 
 
 def bot_message(sentence):
-    keyword1 = catch_stock_keyword(sentence)
-    keyword2 = catch_time_keyword(sentence)
-    if(keyword1 != None):
+    keyword1,name_company = catch_stock_keyword(sentence)
+    keyword2,message = catch_time_keyword(sentence)
+    if(keyword1 != "None"):
         try:
             sql_select_Query = f"select * from {keyword1} where NGAY between date_sub(now(),INTERVAL 1 {keyword2}) and now() ORDER BY NGAY DESC;"
             cursor.execute(sql_select_Query)
             records = cursor.fetchall()
+            print(records)
             print("Total number of rows in AAA is: ", cursor.rowcount)
             print("+---------------------------------------------+")
             print("| NGAY        | GIA DIEU CHINH | GIA DONG CUA |")
@@ -149,38 +151,50 @@ def bot_message(sentence):
             print("+---------------------------------------------+")
         except Error as e:
             print("Error reading data from MySQL table", e)
+            return [],"",""
         # finally:
         #     if (db.is_connected()):
         #         cursor.close()
         #         db.close()
         #         print("MySQL connection is closed !")
-        return records
-    return None
+        return records,name_company,message
+    return [],"",""
 
 # def bot_message(sentence):
 #     keyword1, name_company = catch_stock_keyword(sentence)
 #     keyword2 = catch_time_keyword(sentence)
 #     return "message", keyword1, keyword2
 def catch_stock_keyword(sentence):
-    sentence = tokenize(sentence)
-    X = bag_of_words(sentence, all_words_stock_keyword)
-    X = X.reshape(1, X.shape[0])
-    X = torch.from_numpy(X).to(device)
-
-    output = model_stock_keyword(X)
-
-    _, predicted = torch.max(output, dim=1)
-    print(predicted.item())
-    tag = tags_stock_keyword[predicted.item()]
-    probs = torch.softmax(output, dim=1)
-    prob = probs[0][predicted.item()]
-    print(prob.item())
-    if prob.item() > 0.9:
-        for intent in intents_stock_keyword['intents']:
-            if tag == intent["tag"]:
-                return random.choice(intent['responses'])
+    if(re.search(r"aaa\b",sentence.lower())):
+        return "AAA","Công ty Cổ phần Nhựa An Phát Xanh"
+    if(re.search(r"aam\b",sentence.lower())):
+        return "AAM","Công ty Cổ phần Thủy sản Mekong"
+    if(re.search(r"abs\b",sentence.lower())):
+        return "ABS","Công ty Cổ phần nông nghiệp Bình Thuận"
+    if(re.search(r"abt\b",sentence.lower())):
+        return "ABT","Công ty Cổ phần Xuất nhập khẩu Thủy sản Bến Tre"
+    if(re.search(r"acb\b",sentence.lower())):
+        return "ACB","Ngân hàng Thương mại Cổ phần Á Châu"
     else:
-        return None
+        sentence = tokenize(sentence)
+        X = bag_of_words(sentence, all_words_stock_keyword)
+        X = X.reshape(1, X.shape[0])
+        X = torch.from_numpy(X).to(device)
+
+        output = model_stock_keyword(X)
+
+        _, predicted = torch.max(output, dim=1)
+        # print(predicted.item())
+        tag = tags_stock_keyword[predicted.item()]
+        probs = torch.softmax(output, dim=1)
+        prob = probs[0][predicted.item()]
+        # print(prob.item())
+        if prob.item() > 0.95:
+            for intent in intents_stock_keyword['intents']:
+                if tag == intent["tag"]:
+                    return random.choice(intent['responses']),random.choice(intent['name_company'])
+        else:
+            return "None","None"
 
 
 def catch_time_keyword(sentence):
@@ -194,14 +208,13 @@ def catch_time_keyword(sentence):
     print(intents_time_keyword['intents'][0]['responses'][0])
 
     _, predicted = torch.max(output, dim=1)
-    print(predicted.item())
+    # print(predicted.item())
     tag = tags_time_keyword[predicted.item()]
     probs = torch.softmax(output, dim=1)
     prob = probs[0][predicted.item()]
     print(prob.item())
-    if prob.item() > 0.99:
+    if prob.item() > 0.97:
         for intent in intents_time_keyword['intents']:
             if tag == intent["tag"]:
-                return random.choice(intent['responses'])
-    else:
-        return intents_time_keyword['intents'][0]['responses'][0]
+                return random.choice(intent['responses']),intent['message']
+    return intents_time_keyword['intents'][0]['responses'][0],intents_time_keyword['intents'][0]['message']

@@ -33,6 +33,12 @@ for intent in intents['intents']:
         # add to xy pair
         xy.append((w, tag))
 
+        w = tokenize(pattern)
+        # add to our words list
+        all_words.extend(w)
+        # add to xy pair
+        xy.append((w, tag))
+
 # stem and lower each word
 ignore_words = ['?', '.', '!', "\"", ",",'\'','-','&','(',')','\'\'']
 # all_words = [stem(w) for w in all_words if w not in ignore_words and re.match("^[0-9]{1,2}$|(.*)[.]|^[a-z]{1,2}$",stem(w)) == None]
@@ -50,7 +56,7 @@ X_train = []
 y_train = []
 for (pattern_sentence, tag) in xy:
     # X: bag of words for each pattern_sentence
-    bag = bag_of_words(pattern_sentence, all_words)
+    bag = bag_of_words1(pattern_sentence, all_words)
     X_train.append(bag)
     # y: PyTorch CrossEntropyLoss needs only class labels, not one-hot
     label = tags.index(tag)

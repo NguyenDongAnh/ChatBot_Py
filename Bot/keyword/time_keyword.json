@@ -4,11 +4,14 @@
             "patterns": [
                 "today",
                 "hôm nay",
-                "hnay"
+                "hnay",
+                "một ngày",
+                "1 ngày"
             ],
             "responses": [
                 "day"
-            ]
+            ],
+            "message": "trong vòng một ngày"
         },
         {
             "tag": "yesterday",
@@ -27,11 +30,14 @@
             "patterns": [
                 "tuần này",
                 "tuần",
-                "week"
+                "week",
+                "1 tuần",
+                "một tuần"
             ],
             "responses": [
                 "week"
-            ]
+            ],
+            "message": "trong vòng một tuần"
         },
         {
             "tag": "month",
@@ -39,21 +45,27 @@
                 "month",
                 "tháng",
                 "monthly",
-                "tháng này"
+                "tháng này",
+                "một tháng",
+                "1 tháng"
             ],
             "responses": [
                 "month"
-            ]
+            ],
+            "message":"trong vòng một tháng"
         },
         {
             "tag": "year",
             "patterns": [
                 "year",
-                "năm"
+                "năm",
+                "1 năm",
+                "một năm"
             ],
             "responses": [
                 "year"
-            ]
+            ],
+            "message":"trong vòng một năm"
         }
     ]
 }

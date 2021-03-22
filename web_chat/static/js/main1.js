@@ -56,6 +56,7 @@
         success: async function (result) {
           console.log(result);
           if (result.records.length != 0) {
+            await sendMessage((result.name_company + " " + result.message), "left")
             var html = "";
             result.records.forEach((element) => {
               var d = new Date(element[0]);
@@ -70,20 +71,23 @@
                               <td>${element[1]}</td>
                               <td>${element[2]}</td></tr>`;
             });
-
-            return sendMessage(
-              `<table>
-                              <tr>
-                              <th>NGAY</th>
-                              <th>GIA DIEU CHINH</th>
-                              <th>GIA DONG CUA</th>
-                              </tr>
-                              ${html}
-                              </table>`,
+            return sendMessage(`
+              <table>
+                <thead>
+                  <tr>
+                    <th>NGAY</th>
+                    <th>GIA DIEU CHINH</th>
+                    <th>GIA DONG CUA</th>
+                  </tr>
+                </thead>
+                <tbody>
+                ${html}
+                </tbody>
+              </table>`,
               "left"
             );
           }
-          return sendMessage("không có dữ liệu");
+          return sendMessage("Không có dữ liệu", "left");
         },
       });
     }
@@ -98,11 +102,5 @@
       }
     });
     /* -------------------------------------- */
-    var socket = io();
-    socket.on("connect", function () {
-      socket.emit("my event", {
-        data: `${socket.id}`,
-      });
-    });
   });
 }.call(this));
